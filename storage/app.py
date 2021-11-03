@@ -7,9 +7,9 @@ from connexion import NoContent
 
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-from Storage.base import Base
-from Storage.weather_forecast import WeatherForecast
-from Storage.misc_weather import MiscWeather
+from base import Base
+from weather_forecast import WeatherForecast
+from misc_weather import MiscWeather
 
 import yaml
 import logging.config
