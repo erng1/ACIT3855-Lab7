@@ -1,0 +1,117 @@
+openapi: 3.0.0
+#servers:
+#  # Added by API Auto Mocking Plugin
+#  - description: SwaggerHub API Auto Mocking
+#    url: https://virtserver.swaggerhub.com/eng69/ACIT3855-Lab1/1.0.0
+info:
+  description: This API receives weather updates from weather agencies
+  version: "1.0.0"
+  title: Weather Forecast API
+  contact:
+    email: eng69@my.bcit.ca
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+tags:
+  - name: agency
+    description: Operations available to weather agencies
+paths:
+  /location/weatherForecast:
+    post:
+      tags:
+        - devices
+      summary: reports a location's weather forecast
+      operationId: app.report_weather_forecast
+      description: Adds updated weather forecast to the system
+      responses:
+        '200':
+          description: location's weather forecast updated
+        '400':
+          description: 'invalid input, object invalid'
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/WeatherForecast'
+        description: Weather forecast item to update
+  
+  /location/miscWeather:
+    post:
+      tags:
+        - devices
+      summary: reports a location's precipitation, humidity, wind, air quality
+      operationId: app.report_misc_weather
+      description: Adds updated misc weather info to the system
+      responses:
+        '200':
+          description: location's misc weather updated
+        '400':
+          description: 'invalid input, object invalid'
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/MiscWeather'
+        description: Misc weather item to update
+
+components:
+  schemas:
+    WeatherForecast:
+      required:
+        - location_id
+        - location_name
+        - weather
+        - temperature
+        - timestamp
+      properties:
+        location_id:
+          type: integer
+          example: 123
+        location_name:
+          type: string
+          example: 'Vancouver'
+        weather:
+          type: string
+          example: 'Sunny'
+        temperature:
+          type: integer
+          example: 15
+        timestamp:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:12:33.001Z'
+      type: object  
+        
+    MiscWeather:
+      required:
+        - location_id
+        - location_name
+        - precipitation 
+        - humidity
+        - wind
+        - air_quality
+        - timestamp
+      properties:
+        location_id:
+          type: integer
+          example: 123
+        location_name:
+          type: string
+          example: 'Vancouver'
+        precipitation:
+          type: string
+          example: '10%'
+        humidity:
+          type: string
+          example: '50%'
+        wind:
+          type: string
+          example: '3 km/h'
+        air_quality:
+          type: string
+          example: 'Low Risk'
+        timestamp:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:12:33.001Z'
+      type: object

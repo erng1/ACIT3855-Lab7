@@ -1,0 +1,147 @@
+openapi: 3.0.0
+#servers:
+#  # Added by API Auto Mocking Plugin
+#  - description: SwaggerHub API Auto Mocking
+#    url: https://virtserver.swaggerhub.com/eng69/ACIT3855-Lab1/1.0.0
+info:
+  description: This API receives weather updates from weather agencies
+  version: "1.0.0"
+  title: Weather Forecast API
+  contact:
+    email: eng69@my.bcit.ca
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+tags:
+  - name: agency
+    description: Operations available to weather agencies
+paths:
+  /location/weatherForecast:
+    get:
+      tags:
+        - devices
+      summary: Gets new weather forecasts
+      operationId: app.get_weather_forecast
+      description: Gets weather forecasts after a timestamp
+      parameters:
+        - name: timestamp
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: string
+            format: date-time
+            example: 2016-08-29T09:12:33.001Z
+      responses:
+        '200':
+          description: Successfully returned a list of weather forecast events
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/WeatherForecast'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+  /location/miscWeather:
+    get:
+      tags:
+        - devices
+      summary: Gets new misc weather info
+      operationId: app.get_misc_weather
+      description: Gets misc weather info after a timestamp
+      parameters:
+        - name: timestamp
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: string
+            format: date-time
+            example: 2016-08-29T09:12:33.001Z
+      responses:
+        '200':
+          description: Successfully returned a list of misc weather events
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/MiscWeather'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+components:
+  schemas:
+    WeatherForecast:
+      required:
+        - location_id
+        - location_name
+        - weather
+        - temperature
+        - timestamp
+      properties:
+        location_id:
+          type: integer
+          example: 123
+        location_name:
+          type: string
+          example: 'Vancouver'
+        weather:
+          type: string
+          example: 'Sunny'
+        temperature:
+          type: integer
+          example: 15
+        timestamp:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:12:33.001Z'
+      type: object  
+        
+    MiscWeather:
+      required:
+        - location_id
+        - location_name
+        - precipitation 
+        - humidity
+        - wind
+        - air_quality
+        - timestamp
+      properties:
+        location_id:
+          type: integer
+          example: 123
+        location_name:
+          type: string
+          example: 'Vancouver'
+        precipitation:
+          type: string
+          example: '10%'
+        humidity:
+          type: string
+          example: '50%'
+        wind:
+          type: string
+          example: '3 km/h'
+        air_quality:
+          type: string
+          example: 'Low Risk'
+        timestamp:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:12:33.001Z'
+      type: object

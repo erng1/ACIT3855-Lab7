@@ -1,0 +1,62 @@
+openapi: 3.0.0
+#servers:
+#  # Added by API Auto Mocking Plugin
+#  - description: SwaggerHub API Auto Mocking
+#    url: https://virtserver.swaggerhub.com/eng69/ACIT3855-Lab1/1.0.0
+info:
+  description: This API provides event stats
+  version: "1.0.0"
+  title: Stats API
+  contact:
+    email: eng69@my.bcit.ca
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+
+paths:
+  /stats:
+    get:
+      summary: Gets the event stats
+      operationId: app.get_stats
+      description: Gets Weather Forecast and Misc Weather processed stats
+      responses:
+        '200':
+          description: Successfully returned a list of weather forecast events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ForecastStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+components:
+  schemas:
+    ForecastStats:
+      required:
+        - num_wf_reports
+        - max_temperature
+        - min_temperature
+        - num_mw_reports
+      properties:
+        num_wf_reports:
+          type: integer
+          example: 123
+        max_temperature:
+          type: string
+          example: '40C'
+        min_temperature:
+          type: string
+          example: '-10C'
+        num_mw_reports:
+          type: integer
+          example: 321
+      type: object
