@@ -76,7 +76,7 @@ def get_misc_weather_report(index):
 
             # different types of messages in queue with different indexes
             # iterate and increase count if message type matches
-            if msg['type'] == 'wf':
+            if msg['type'] == 'mw':
                 if counter == index:
                     return msg['payload'], 200
                 counter += 1
