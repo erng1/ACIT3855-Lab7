@@ -24,13 +24,20 @@ paths:
       operationId: app.get_weather_forecast
       description: Gets weather forecasts after a timestamp
       parameters:
-        - name: timestamp
+        - name: start_timestamp
           in: query
           description: Limits the number of items on a page
           schema:
             type: string
             format: date-time
             example: 2016-08-29T09:12:33.001Z
+        - name: end_timestamp
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: string
+            format: date-time
+            example: 2017-09-30T09:12:33.001Z
       responses:
         '200':
           description: Successfully returned a list of weather forecast events
@@ -58,13 +65,20 @@ paths:
       operationId: app.get_misc_weather
       description: Gets misc weather info after a timestamp
       parameters:
-        - name: timestamp
+        - name: start_timestamp
           in: query
           description: Limits the number of items on a page
           schema:
             type: string
             format: date-time
             example: 2016-08-29T09:12:33.001Z
+        - name: end_timestamp
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: string
+            format: date-time
+            example: 2017-09-30T09:12:33.001Z
       responses:
         '200':
           description: Successfully returned a list of misc weather events

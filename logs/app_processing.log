@@ -1,0 +1,2207 @@
+2021-11-24 08:50:34,227 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 08:50:34,244 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 08:50:34,442 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 08:50:34,442 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 08:50:36,696 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:50:36,700 - basicLogger - ERROR - File does not exist. Failed to retrieve statistics.
+2021-11-24 08:50:39,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:50:39,787 - basicLogger - INFO - Received 0 events
+2021-11-24 08:50:39,798 - basicLogger - INFO - Received 0 events
+2021-11-24 08:50:39,876 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:50:39,877 - basicLogger - DEBUG - Contents:
+2021-11-24 08:50:39,877 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:50:42,124 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:50:42,126 - basicLogger - DEBUG - Contents:
+2021-11-24 08:50:42,127 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:50:44,366 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:50:44,366 - basicLogger - DEBUG - Contents:
+2021-11-24 08:50:44,366 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:50:44,739 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:50:44,751 - basicLogger - INFO - Received 0 events
+2021-11-24 08:50:44,769 - basicLogger - INFO - Received 0 events
+2021-11-24 08:50:46,631 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:50:46,632 - basicLogger - DEBUG - Contents:
+2021-11-24 08:50:46,632 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:50:48,872 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:50:48,873 - basicLogger - DEBUG - Contents:
+2021-11-24 08:50:48,873 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:50:49,739 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:50:49,751 - basicLogger - INFO - Received 0 events
+2021-11-24 08:50:49,761 - basicLogger - INFO - Received 0 events
+2021-11-24 08:50:51,822 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:50:51,822 - basicLogger - DEBUG - Contents:
+2021-11-24 08:50:51,823 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:50:54,061 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:50:54,062 - basicLogger - DEBUG - Contents:
+2021-11-24 08:50:54,062 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:50:54,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:50:54,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:50:54,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:50:57,097 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:50:57,097 - basicLogger - DEBUG - Contents:
+2021-11-24 08:50:57,097 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:50:59,335 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:50:59,336 - basicLogger - DEBUG - Contents:
+2021-11-24 08:50:59,336 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:50:59,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:50:59,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:50:59,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:02,350 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:02,350 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:02,350 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:04,586 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:04,586 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:04,586 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:04,740 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:51:04,753 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:04,765 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:07,613 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:07,613 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:07,613 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:09,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:51:09,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:09,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:09,840 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:09,841 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:09,841 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:12,900 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:12,901 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:12,901 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:14,741 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:51:14,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:14,767 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:15,133 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:15,133 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:15,133 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:18,170 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:18,171 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:18,171 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:19,745 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:51:19,756 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:19,765 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:20,390 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:20,390 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:20,390 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:23,459 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:23,459 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:23,459 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:24,740 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:51:24,754 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:24,763 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:25,688 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:25,689 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:25,689 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:28,775 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:28,775 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:28,775 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:29,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:51:29,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:29,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:31,029 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:31,030 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:31,030 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:33,261 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:33,261 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:33,262 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:34,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:51:34,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:34,769 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:35,493 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:35,493 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:35,494 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:37,733 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:37,733 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:37,733 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:39,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:51:39,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:39,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:40,550 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:40,550 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:40,550 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:42,772 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:42,772 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:42,772 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:44,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:51:44,753 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:44,763 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:45,012 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:45,013 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:45,013 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:47,246 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:47,247 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:47,247 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:49,487 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:49,487 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:49,487 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:49,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:51:49,751 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:49,768 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:52,259 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:52,260 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:52,260 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:54,503 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:54,504 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:54,504 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:54,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:51:54,754 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:54,762 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:57,533 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:57,533 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:57,533 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:51:59,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:51:59,748 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:59,757 - basicLogger - INFO - Received 0 events
+2021-11-24 08:51:59,768 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:51:59,768 - basicLogger - DEBUG - Contents:
+2021-11-24 08:51:59,768 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:02,001 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:02,002 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:02,002 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:04,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:52:04,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:04,760 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:04,840 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:04,841 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:04,841 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:07,087 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:07,087 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:07,087 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:09,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:52:09,753 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:09,762 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:10,110 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:10,110 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:10,110 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:12,328 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:12,328 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:12,329 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:14,583 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:14,583 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:14,583 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:14,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:52:14,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:14,760 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:17,388 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:17,388 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:17,388 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:19,662 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:19,662 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:19,662 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:19,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:52:19,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:19,760 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:21,913 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:21,913 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:21,913 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:24,164 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:24,165 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:24,165 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:24,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:52:24,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:24,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:27,027 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:27,028 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:27,028 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:29,276 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:29,276 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:29,276 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:29,739 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:52:29,751 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:29,761 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:32,295 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:32,296 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:32,296 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:34,544 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:34,544 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:34,544 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:34,740 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:52:34,751 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:34,761 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:36,795 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:36,795 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:36,795 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:39,597 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:39,597 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:39,597 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:39,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:52:39,748 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:39,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:41,823 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:41,823 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:41,823 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:44,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:52:44,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:44,760 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:44,859 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:44,860 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:44,860 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:47,102 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:47,103 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:47,103 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:49,324 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:49,324 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:49,324 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:49,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:52:49,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:49,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:51,565 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:51,565 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:51,565 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:53,815 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:53,816 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:53,816 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:54,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:52:54,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:54,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:56,057 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:56,058 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:56,058 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:58,870 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:52:58,870 - basicLogger - DEBUG - Contents:
+2021-11-24 08:52:58,870 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:52:59,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:52:59,748 - basicLogger - INFO - Received 0 events
+2021-11-24 08:52:59,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:01,123 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:01,123 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:01,124 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:04,172 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:04,172 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:04,172 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:04,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:53:04,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:04,760 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:06,404 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:06,405 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:06,405 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:08,718 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:08,718 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:08,718 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:09,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:53:09,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:09,760 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:10,942 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:10,942 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:10,942 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:13,192 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:13,192 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:13,192 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:14,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:53:14,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:14,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:15,456 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:15,457 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:15,457 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:17,679 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:17,680 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:17,680 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:19,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:53:19,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:19,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:19,943 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:19,943 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:19,943 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:22,796 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:22,796 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:22,797 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:24,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:53:24,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:24,769 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:25,814 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:25,814 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:25,814 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:28,362 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:28,362 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:28,363 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:29,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:53:29,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:29,760 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:31,624 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:31,624 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:31,624 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:34,394 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:34,394 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:34,395 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:34,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:53:34,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:34,761 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:36,677 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:36,678 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:36,678 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:39,308 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:39,308 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:39,308 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:39,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:53:39,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:39,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:41,697 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:41,698 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:41,698 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:44,649 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:44,649 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:44,650 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:44,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:53:44,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:44,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:46,891 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:46,892 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:46,892 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:49,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:53:49,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:49,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:50,095 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:50,095 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:50,095 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:52,833 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:52,834 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:52,834 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:54,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:53:54,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:54,761 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:55,303 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:55,303 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:55,303 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:59,249 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:53:59,249 - basicLogger - DEBUG - Contents:
+2021-11-24 08:53:59,249 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:53:59,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:53:59,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:53:59,760 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:01,659 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:01,659 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:01,659 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:04,220 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:04,221 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:04,221 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:04,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:54:04,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:04,761 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:06,488 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:06,489 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:06,489 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:09,491 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:09,491 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:09,491 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:09,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:54:09,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:09,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:11,726 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:11,727 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:11,727 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:13,955 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:13,955 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:13,955 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:14,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:54:14,748 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:14,757 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:16,183 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:16,184 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:16,184 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:18,432 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:18,432 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:18,433 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:19,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:54:19,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:19,762 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:21,261 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:21,262 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:21,262 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:23,509 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:23,509 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:23,510 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:24,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:54:24,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:24,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:25,764 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:25,764 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:25,764 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:28,588 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:28,588 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:28,588 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:29,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:54:29,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:29,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:30,853 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:30,853 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:30,853 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:33,088 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:33,088 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:33,088 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:34,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:54:34,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:34,770 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:36,058 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:36,058 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:36,059 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:38,297 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:38,297 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:38,298 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:39,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:54:39,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:39,760 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:41,344 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:41,345 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:41,345 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:43,580 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:43,580 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:43,580 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:44,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:54:44,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:44,766 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:45,818 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:45,818 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:45,818 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:48,111 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:48,111 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:48,111 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:49,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:54:49,752 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:49,762 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:50,345 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:50,345 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:50,345 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:53,130 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:53,130 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:53,131 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:54,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:54:54,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:54,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:55,407 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:55,408 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:55,408 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:58,425 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:54:58,425 - basicLogger - DEBUG - Contents:
+2021-11-24 08:54:58,425 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:54:59,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:54:59,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:54:59,763 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:00,682 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:00,683 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:00,683 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:02,938 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:02,939 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:02,939 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:04,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:55:04,751 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:04,761 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:05,169 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:05,169 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:05,169 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:08,001 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:08,001 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:08,001 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:09,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:55:09,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:09,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:10,259 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:10,259 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:10,259 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:12,532 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:12,533 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:12,533 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:14,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:55:14,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:14,760 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:15,552 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:15,553 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:15,553 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:18,787 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:18,788 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:18,788 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:19,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:55:19,753 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:19,765 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:21,020 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:21,020 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:21,020 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:23,270 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:23,270 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:23,270 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:24,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:55:24,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:24,761 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:26,093 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:26,094 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:26,094 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:28,342 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:28,342 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:28,342 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:29,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:55:29,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:29,770 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:31,404 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:31,405 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:31,405 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:33,723 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:33,724 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:33,724 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:34,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:55:34,751 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:34,766 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:36,032 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:36,032 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:36,032 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:38,729 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:38,730 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:38,730 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:39,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:55:39,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:39,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:41,068 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:41,068 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:41,068 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:43,327 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:43,327 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:43,327 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:44,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:55:44,751 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:44,762 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:46,358 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:46,358 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:46,358 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:48,582 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:48,583 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:48,583 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:49,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:55:49,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:49,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:50,813 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:50,814 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:50,814 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:53,057 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:53,057 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:53,057 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:54,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:55:54,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:54,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:55,916 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:55,916 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:55,917 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:58,194 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:55:58,195 - basicLogger - DEBUG - Contents:
+2021-11-24 08:55:58,195 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:55:59,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:55:59,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:55:59,760 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:01,183 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:01,184 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:01,184 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:03,413 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:03,413 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:03,413 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:04,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:56:04,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:04,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:05,646 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:05,646 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:05,646 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:07,891 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:07,891 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:07,891 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:09,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:56:09,748 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:09,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:10,714 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:10,714 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:10,715 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:12,942 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:12,942 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:12,943 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:14,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:56:14,748 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:14,757 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:15,171 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:15,172 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:15,172 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:18,035 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:18,035 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:18,035 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:19,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:56:19,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:19,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:20,271 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:20,271 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:20,271 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:23,312 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:23,312 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:23,313 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:24,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:56:24,748 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:24,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:25,544 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:25,545 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:25,545 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:28,593 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:28,594 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:28,594 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:29,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:56:29,748 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:29,757 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:30,830 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:30,830 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:30,831 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:33,869 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:33,870 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:33,870 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:34,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:56:34,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:34,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:36,225 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:36,226 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:36,226 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:38,460 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:38,461 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:38,461 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:39,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:56:39,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:39,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:40,698 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:40,699 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:40,699 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:43,383 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:43,383 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:43,384 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:44,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:56:44,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:44,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:45,702 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:45,703 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:45,703 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:48,683 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:48,684 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:48,684 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:49,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:56:49,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:49,760 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:50,925 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:50,926 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:50,926 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:53,161 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:53,161 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:53,161 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:54,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:56:54,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:54,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:56,121 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:56,121 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:56,122 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:58,377 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:56:58,377 - basicLogger - DEBUG - Contents:
+2021-11-24 08:56:58,377 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:56:59,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:56:59,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:56:59,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:01,407 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:01,407 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:01,408 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:03,663 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:03,663 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:03,663 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:04,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:57:04,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:04,761 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:06,703 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:06,703 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:06,703 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:08,936 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:08,936 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:08,936 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:09,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:57:09,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:09,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:11,975 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:11,975 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:11,975 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:14,286 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:14,286 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:14,286 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:14,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:57:14,752 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:14,762 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:16,647 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:16,647 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:16,647 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:19,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:57:19,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:19,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:22,571 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:22,571 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:22,571 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:23,521 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:23,521 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:23,521 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:24,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:57:24,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:24,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:25,780 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:25,781 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:25,781 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:28,838 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:28,839 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:28,839 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:29,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:57:29,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:29,762 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:31,076 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:31,077 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:31,077 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:34,135 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:34,135 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:34,135 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:34,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:57:34,768 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:34,778 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:36,395 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:36,395 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:36,395 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:39,431 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:39,431 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:39,431 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:39,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:57:39,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:39,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:42,721 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:42,721 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:42,721 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:44,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:57:44,751 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:44,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:44,988 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:44,988 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:44,989 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:47,983 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:47,984 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:47,984 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:49,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:57:49,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:49,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:50,219 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:50,219 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:50,219 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:53,282 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:53,283 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:53,283 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:54,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:57:54,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:54,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:55,534 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:55,534 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:55,534 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:57,761 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:57:57,761 - basicLogger - DEBUG - Contents:
+2021-11-24 08:57:57,761 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:57:59,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:57:59,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:57:59,759 - basicLogger - INFO - Received 0 events
+2021-11-24 08:58:00,011 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:58:00,012 - basicLogger - DEBUG - Contents:
+2021-11-24 08:58:00,012 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:58:02,251 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:58:02,252 - basicLogger - DEBUG - Contents:
+2021-11-24 08:58:02,252 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:58:04,486 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:58:04,487 - basicLogger - DEBUG - Contents:
+2021-11-24 08:58:04,487 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:58:04,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:58:04,750 - basicLogger - INFO - Received 0 events
+2021-11-24 08:58:04,760 - basicLogger - INFO - Received 0 events
+2021-11-24 08:58:06,732 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:58:06,732 - basicLogger - DEBUG - Contents:
+2021-11-24 08:58:06,732 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:58:08,992 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:58:08,992 - basicLogger - DEBUG - Contents:
+2021-11-24 08:58:08,992 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:58:09,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:58:09,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:58:09,758 - basicLogger - INFO - Received 0 events
+2021-11-24 08:58:11,800 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:58:11,801 - basicLogger - DEBUG - Contents:
+2021-11-24 08:58:11,801 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:58:14,083 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:58:14,083 - basicLogger - DEBUG - Contents:
+2021-11-24 08:58:14,083 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:58:14,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:58:14,751 - basicLogger - INFO - Received 0 events
+2021-11-24 08:58:14,765 - basicLogger - INFO - Received 0 events
+2021-11-24 08:58:17,083 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:58:17,083 - basicLogger - DEBUG - Contents:
+2021-11-24 08:58:17,084 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:58:19,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:58:19,749 - basicLogger - INFO - Received 0 events
+2021-11-24 08:58:19,761 - basicLogger - INFO - Received 0 events
+2021-11-24 08:58:21,268 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:58:21,268 - basicLogger - DEBUG - Contents:
+2021-11-24 08:58:21,269 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:58:21,996 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:58:21,997 - basicLogger - DEBUG - Contents:
+2021-11-24 08:58:21,997 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:58:24,229 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 08:58:24,229 - basicLogger - DEBUG - Contents:
+2021-11-24 08:58:24,229 - basicLogger - INFO - get_stats request complete.
+2021-11-24 08:58:24,738 - basicLogger - INFO - Periodic processing started.
+2021-11-24 08:58:24,757 - basicLogger - INFO - Received 0 events
+2021-11-24 08:58:24,780 - basicLogger - INFO - Received 0 events
+2021-11-24 09:02:21,016 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 09:02:21,017 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 09:02:21,193 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 09:02:21,193 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 09:02:21,654 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:21,655 - basicLogger - ERROR - File does not exist. Failed to retrieve statistics.
+2021-11-24 09:02:21,992 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:21,992 - basicLogger - ERROR - File does not exist. Failed to retrieve statistics.
+2021-11-24 09:02:24,675 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:24,675 - basicLogger - ERROR - File does not exist. Failed to retrieve statistics.
+2021-11-24 09:02:26,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:02:26,497 - basicLogger - INFO - Received 0 events
+2021-11-24 09:02:26,512 - basicLogger - INFO - Received 0 events
+2021-11-24 09:02:26,690 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:26,691 - basicLogger - DEBUG - Contents:
+2021-11-24 09:02:26,691 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:02:29,735 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:29,736 - basicLogger - DEBUG - Contents:
+2021-11-24 09:02:29,736 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:02:31,451 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:02:31,479 - basicLogger - INFO - Received 0 events
+2021-11-24 09:02:31,489 - basicLogger - INFO - Received 0 events
+2021-11-24 09:02:31,967 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:31,967 - basicLogger - DEBUG - Contents:
+2021-11-24 09:02:31,967 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:02:34,641 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:34,642 - basicLogger - DEBUG - Contents:
+2021-11-24 09:02:34,642 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:02:36,453 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:02:36,464 - basicLogger - INFO - Received 0 events
+2021-11-24 09:02:36,473 - basicLogger - INFO - Received 0 events
+2021-11-24 09:02:36,876 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:36,876 - basicLogger - DEBUG - Contents:
+2021-11-24 09:02:36,877 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:02:39,124 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:39,124 - basicLogger - DEBUG - Contents:
+2021-11-24 09:02:39,124 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:02:41,337 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:41,337 - basicLogger - DEBUG - Contents:
+2021-11-24 09:02:41,337 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:02:41,447 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:02:41,458 - basicLogger - INFO - Received 0 events
+2021-11-24 09:02:41,467 - basicLogger - INFO - Received 0 events
+2021-11-24 09:02:44,199 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:44,199 - basicLogger - DEBUG - Contents:
+2021-11-24 09:02:44,199 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:02:46,445 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:46,445 - basicLogger - DEBUG - Contents:
+2021-11-24 09:02:46,445 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:02:46,447 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:02:46,458 - basicLogger - INFO - Received 0 events
+2021-11-24 09:02:46,467 - basicLogger - INFO - Received 0 events
+2021-11-24 09:02:49,464 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:49,465 - basicLogger - DEBUG - Contents:
+2021-11-24 09:02:49,465 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:02:51,447 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:02:51,460 - basicLogger - INFO - Received 0 events
+2021-11-24 09:02:51,475 - basicLogger - INFO - Received 0 events
+2021-11-24 09:02:51,686 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:51,687 - basicLogger - DEBUG - Contents:
+2021-11-24 09:02:51,687 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:02:53,906 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:53,907 - basicLogger - DEBUG - Contents:
+2021-11-24 09:02:53,907 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:02:56,447 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:02:56,458 - basicLogger - INFO - Received 0 events
+2021-11-24 09:02:56,468 - basicLogger - INFO - Received 0 events
+2021-11-24 09:02:56,774 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:56,775 - basicLogger - DEBUG - Contents:
+2021-11-24 09:02:56,775 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:02:59,020 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:02:59,020 - basicLogger - DEBUG - Contents:
+2021-11-24 09:02:59,020 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:01,257 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:01,257 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:01,258 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:01,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:03:01,456 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:01,466 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:04,291 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:04,291 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:04,291 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:06,446 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:03:06,458 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:06,470 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:06,543 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:06,543 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:06,543 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:08,802 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:08,802 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:08,802 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:11,078 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:11,078 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:11,078 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:11,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:03:11,456 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:11,466 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:13,405 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:13,406 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:13,406 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:15,647 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:15,647 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:15,648 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:16,448 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:03:16,461 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:16,473 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:18,458 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:18,459 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:18,459 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:20,701 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:20,701 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:20,701 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:21,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:03:21,459 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:21,469 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:23,742 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:23,743 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:23,743 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:25,970 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:25,971 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:25,971 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:26,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:03:26,456 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:26,467 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:29,013 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:29,014 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:29,014 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:31,258 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:31,259 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:31,259 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:31,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:03:31,455 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:31,465 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:33,511 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:33,511 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:33,512 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:36,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:03:36,458 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:36,459 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:36,459 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:36,461 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:36,472 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:38,696 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:38,697 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:38,697 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:41,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:03:41,455 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:41,464 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:41,743 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:41,744 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:41,744 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:44,001 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:44,002 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:44,002 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:46,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:03:46,458 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:46,469 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:47,057 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:47,058 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:47,058 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:49,300 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:49,301 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:49,301 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:51,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:03:51,456 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:51,466 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:52,351 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:52,351 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:52,351 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:54,611 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:54,611 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:54,611 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:56,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:03:56,457 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:56,466 - basicLogger - INFO - Received 0 events
+2021-11-24 09:03:57,607 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:57,607 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:57,607 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:03:59,826 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:03:59,827 - basicLogger - DEBUG - Contents:
+2021-11-24 09:03:59,827 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:01,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:04:01,457 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:01,466 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:02,854 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:02,854 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:02,855 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:05,094 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:05,094 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:05,094 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:06,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:04:06,456 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:06,465 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:08,134 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:08,134 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:08,134 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:10,421 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:10,422 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:10,422 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:11,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:04:11,456 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:11,466 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:12,672 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:12,672 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:12,672 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:15,689 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:15,690 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:15,690 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:16,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:04:16,456 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:16,464 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:17,936 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:17,936 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:17,937 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:20,179 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:20,179 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:20,179 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:21,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:04:21,455 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:21,464 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:22,404 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:22,405 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:22,405 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:25,239 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:25,240 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:25,240 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:26,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:04:26,457 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:26,468 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:27,488 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:27,488 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:27,488 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:30,505 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:30,505 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:30,506 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:31,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:04:31,458 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:31,468 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:32,754 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:32,754 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:32,754 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:34,987 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:34,988 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:34,988 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:36,446 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:04:36,457 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:36,469 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:37,220 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:37,221 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:37,221 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:39,527 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:39,528 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:39,528 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:41,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:04:41,456 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:41,468 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:41,762 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:41,763 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:41,763 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:44,511 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:44,512 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:44,512 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:46,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:04:46,457 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:46,467 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:46,776 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:46,777 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:46,777 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:49,793 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:49,794 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:49,794 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:51,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:04:51,455 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:51,465 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:52,041 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:52,041 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:52,041 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:55,092 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:55,093 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:55,093 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:04:56,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:04:56,461 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:56,471 - basicLogger - INFO - Received 0 events
+2021-11-24 09:04:57,343 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:04:57,343 - basicLogger - DEBUG - Contents:
+2021-11-24 09:04:57,343 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:00,385 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:00,385 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:00,385 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:01,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:05:01,455 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:01,474 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:02,633 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:02,633 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:02,634 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:05,672 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:05,672 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:05,672 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:06,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:05:06,456 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:06,465 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:07,925 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:07,925 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:07,926 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:10,933 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:10,934 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:10,934 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:11,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:05:11,456 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:11,473 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:13,189 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:13,190 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:13,190 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:16,155 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:16,155 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:16,155 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:16,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:05:16,455 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:16,463 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:18,409 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:18,410 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:18,410 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:20,655 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:20,655 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:20,655 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:21,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:05:21,455 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:21,466 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:23,518 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:23,519 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:23,519 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:25,774 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:25,775 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:25,775 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:26,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:05:26,456 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:26,468 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:28,845 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:28,846 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:28,846 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:31,080 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:31,081 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:31,081 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:31,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:05:31,456 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:31,466 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:33,336 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:33,336 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:33,336 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:35,604 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:35,604 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:35,604 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:36,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:05:36,457 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:36,465 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:37,828 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:37,828 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:37,829 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:40,633 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:40,634 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:40,634 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:41,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:05:41,457 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:41,466 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:42,904 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:42,904 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:42,904 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:45,129 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:45,130 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:45,130 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:46,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:05:46,456 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:46,467 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:47,908 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:47,909 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:47,909 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:50,167 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:50,168 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:50,168 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:51,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:05:51,456 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:51,465 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:52,395 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:52,395 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:52,395 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:55,185 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:55,186 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:55,186 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:05:56,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:05:56,458 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:56,467 - basicLogger - INFO - Received 0 events
+2021-11-24 09:05:57,413 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:05:57,413 - basicLogger - DEBUG - Contents:
+2021-11-24 09:05:57,413 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:06:00,485 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:06:00,486 - basicLogger - DEBUG - Contents:
+2021-11-24 09:06:00,486 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:06:01,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:06:01,469 - basicLogger - INFO - Received 0 events
+2021-11-24 09:06:01,480 - basicLogger - INFO - Received 0 events
+2021-11-24 09:06:02,706 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:06:02,706 - basicLogger - DEBUG - Contents:
+2021-11-24 09:06:02,707 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:06:04,945 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:06:04,946 - basicLogger - DEBUG - Contents:
+2021-11-24 09:06:04,946 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:06:06,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:06:06,456 - basicLogger - INFO - Received 0 events
+2021-11-24 09:06:06,464 - basicLogger - INFO - Received 0 events
+2021-11-24 09:06:07,175 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:06:07,176 - basicLogger - DEBUG - Contents:
+2021-11-24 09:06:07,176 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:06:09,417 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:06:09,417 - basicLogger - DEBUG - Contents:
+2021-11-24 09:06:09,417 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:06:11,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:06:11,457 - basicLogger - INFO - Received 0 events
+2021-11-24 09:06:11,469 - basicLogger - INFO - Received 0 events
+2021-11-24 09:06:12,243 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:06:12,368 - basicLogger - DEBUG - Contents:
+2021-11-24 09:06:12,369 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:06:14,654 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:06:14,655 - basicLogger - DEBUG - Contents:
+2021-11-24 09:06:14,655 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:06:16,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:06:16,454 - basicLogger - INFO - Received 0 events
+2021-11-24 09:06:16,463 - basicLogger - INFO - Received 0 events
+2021-11-24 09:06:16,884 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:06:16,885 - basicLogger - DEBUG - Contents:
+2021-11-24 09:06:16,885 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:06:19,802 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:06:19,802 - basicLogger - DEBUG - Contents:
+2021-11-24 09:06:19,802 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:06:21,445 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:06:21,457 - basicLogger - INFO - Received 0 events
+2021-11-24 09:06:21,466 - basicLogger - INFO - Received 0 events
+2021-11-24 09:06:22,034 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:06:22,034 - basicLogger - DEBUG - Contents:
+2021-11-24 09:06:22,034 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:08:37,126 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 09:08:37,127 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 09:08:37,493 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 09:08:37,494 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 09:08:39,658 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:08:39,659 - basicLogger - ERROR - File does not exist. Failed to retrieve statistics.
+2021-11-24 09:08:41,895 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:08:41,895 - basicLogger - ERROR - File does not exist. Failed to retrieve statistics.
+2021-11-24 09:08:43,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:08:43,169 - basicLogger - INFO - Received 0 events
+2021-11-24 09:08:43,185 - basicLogger - INFO - Received 0 events
+2021-11-24 09:08:44,035 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:08:44,035 - basicLogger - DEBUG - Contents:
+2021-11-24 09:08:44,035 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:08:46,267 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:08:46,267 - basicLogger - DEBUG - Contents:
+2021-11-24 09:08:46,268 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:08:48,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:08:48,141 - basicLogger - INFO - Received 0 events
+2021-11-24 09:08:48,152 - basicLogger - INFO - Received 0 events
+2021-11-24 09:08:48,539 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:08:48,540 - basicLogger - DEBUG - Contents:
+2021-11-24 09:08:48,540 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:08:50,792 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:08:50,792 - basicLogger - DEBUG - Contents:
+2021-11-24 09:08:50,792 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:08:53,070 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:08:53,070 - basicLogger - DEBUG - Contents:
+2021-11-24 09:08:53,070 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:08:53,123 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:08:53,136 - basicLogger - INFO - Received 0 events
+2021-11-24 09:08:53,149 - basicLogger - INFO - Received 0 events
+2021-11-24 09:08:55,945 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:08:55,946 - basicLogger - DEBUG - Contents:
+2021-11-24 09:08:55,946 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:08:58,123 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:08:58,135 - basicLogger - INFO - Received 0 events
+2021-11-24 09:08:58,145 - basicLogger - INFO - Received 0 events
+2021-11-24 09:08:58,223 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:08:58,223 - basicLogger - DEBUG - Contents:
+2021-11-24 09:08:58,223 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:01,225 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:01,225 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:01,225 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:03,123 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:09:03,137 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:03,149 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:03,477 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:03,477 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:03,477 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:06,557 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:06,558 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:06,558 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:08,121 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:09:08,133 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:08,143 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:08,845 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:08,846 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:08,846 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:11,857 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:11,858 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:11,858 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:13,121 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:09:13,133 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:13,142 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:14,126 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:14,126 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:14,126 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:17,117 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:17,118 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:17,118 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:18,123 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:09:18,141 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:18,153 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:19,365 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:19,365 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:19,365 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:22,357 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:22,358 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:22,358 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:23,121 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:09:23,134 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:23,145 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:24,640 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:24,640 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:24,640 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:27,688 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:27,689 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:27,689 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:28,121 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:09:28,134 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:28,143 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:29,956 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:29,957 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:29,957 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:32,943 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:32,943 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:32,943 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:33,121 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:09:33,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:33,141 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:35,208 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:35,209 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:35,209 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:38,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:09:38,133 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:38,148 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:38,586 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:38,586 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:38,587 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:40,828 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:40,828 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:40,829 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:43,081 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:43,082 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:43,082 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:43,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:09:43,133 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:43,146 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:46,110 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:46,110 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:46,111 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:48,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:09:48,141 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:48,152 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:48,371 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:48,371 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:48,371 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:51,470 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:51,470 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:51,470 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:53,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:09:53,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:53,141 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:53,712 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:53,712 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:53,713 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:56,752 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:56,752 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:56,752 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:09:58,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:09:58,131 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:58,140 - basicLogger - INFO - Received 0 events
+2021-11-24 09:09:58,992 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:09:58,993 - basicLogger - DEBUG - Contents:
+2021-11-24 09:09:58,993 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:02,013 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:02,014 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:02,014 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:03,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:10:03,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:03,142 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:04,270 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:04,271 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:04,271 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:07,283 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:07,284 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:07,284 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:08,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:10:08,146 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:08,156 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:09,520 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:09,521 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:09,521 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:12,551 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:12,552 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:12,552 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:13,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:10:13,133 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:13,143 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:14,807 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:14,807 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:14,807 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:17,823 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:17,823 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:17,823 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:18,121 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:10:18,134 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:18,143 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:20,076 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:20,076 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:20,076 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:23,077 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:23,077 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:23,077 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:23,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:10:23,134 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:23,143 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:25,303 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:25,303 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:25,304 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:28,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:10:28,131 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:28,140 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:28,358 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:28,359 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:28,359 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:30,649 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:30,649 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:30,649 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:33,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:10:33,131 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:33,140 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:33,685 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:33,685 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:33,686 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:35,942 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:35,942 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:35,943 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:38,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:10:38,148 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:38,159 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:38,948 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:38,948 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:38,948 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:41,187 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:41,188 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:41,188 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:43,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:10:43,133 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:43,143 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:48,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:10:48,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:48,142 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:50,560 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:50,560 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:50,561 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:52,804 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:52,805 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:52,805 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:53,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:10:53,131 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:53,141 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:58,121 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:10:58,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:58,144 - basicLogger - INFO - Received 0 events
+2021-11-24 09:10:58,330 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:58,330 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:58,331 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:10:58,379 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:10:58,379 - basicLogger - DEBUG - Contents:
+2021-11-24 09:10:58,379 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:00,653 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:00,654 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:00,654 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:03,066 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:03,066 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:03,066 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:03,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:11:03,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:11:03,145 - basicLogger - INFO - Received 0 events
+2021-11-24 09:11:05,342 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:05,343 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:05,343 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:07,616 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:07,617 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:07,617 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:08,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:11:08,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:11:08,141 - basicLogger - INFO - Received 0 events
+2021-11-24 09:11:10,265 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:10,266 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:10,266 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:12,641 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:12,641 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:12,641 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:13,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:11:13,135 - basicLogger - INFO - Received 4 events
+2021-11-24 09:11:13,136 - basicLogger - ERROR - Invalid Weather Forecast get request
+2021-11-24 09:11:13,150 - basicLogger - INFO - Received 4 events
+2021-11-24 09:11:13,150 - basicLogger - ERROR - Invalid Misc Weather get request
+2021-11-24 09:11:15,630 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:15,631 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:15,631 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:17,910 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:17,910 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:17,910 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:18,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:11:18,131 - basicLogger - INFO - Received 0 events
+2021-11-24 09:11:18,140 - basicLogger - INFO - Received 0 events
+2021-11-24 09:11:20,877 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:20,878 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:20,878 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:23,119 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:23,119 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:23,120 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:23,122 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:11:23,136 - basicLogger - INFO - Received 10 events
+2021-11-24 09:11:23,146 - basicLogger - INFO - Received 0 events
+2021-11-24 09:11:28,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:11:28,131 - basicLogger - INFO - Received 0 events
+2021-11-24 09:11:28,142 - basicLogger - INFO - Received 10 events
+2021-11-24 09:11:28,763 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:28,763 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:28,763 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:30,277 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:30,277 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:30,277 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:32,628 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:32,629 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:32,629 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:33,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:11:33,133 - basicLogger - INFO - Received 10 events
+2021-11-24 09:11:33,144 - basicLogger - INFO - Received 0 events
+2021-11-24 09:11:34,884 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:34,884 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:34,885 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:37,138 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:37,139 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:37,139 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:38,121 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:11:38,134 - basicLogger - INFO - Received 0 events
+2021-11-24 09:11:38,145 - basicLogger - INFO - Received 8 events
+2021-11-24 09:11:39,804 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:39,804 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:39,804 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:42,342 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:42,343 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:42,343 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:43,121 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:11:43,134 - basicLogger - INFO - Received 6 events
+2021-11-24 09:11:43,144 - basicLogger - INFO - Received 2 events
+2021-11-24 09:11:44,636 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:44,637 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:44,637 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:47,624 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:47,624 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:47,624 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:48,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:11:48,132 - basicLogger - INFO - Received 4 events
+2021-11-24 09:11:48,141 - basicLogger - INFO - Received 4 events
+2021-11-24 09:11:49,906 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:49,906 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:49,906 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:52,945 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:52,945 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:52,946 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:53,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:11:53,132 - basicLogger - INFO - Received 1 events
+2021-11-24 09:11:53,142 - basicLogger - INFO - Received 6 events
+2021-11-24 09:11:55,199 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:55,199 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:55,199 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:57,448 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:11:57,448 - basicLogger - DEBUG - Contents:
+2021-11-24 09:11:57,448 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:11:58,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:11:58,133 - basicLogger - INFO - Received 9 events
+2021-11-24 09:11:58,142 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:00,243 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:00,243 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:00,243 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:02,519 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:02,519 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:02,519 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:03,121 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:12:03,134 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:03,145 - basicLogger - INFO - Received 10 events
+2021-11-24 09:12:05,546 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:05,547 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:05,547 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:07,816 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:07,816 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:07,817 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:08,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:12:08,133 - basicLogger - INFO - Received 10 events
+2021-11-24 09:12:08,144 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:10,807 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:10,808 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:10,808 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:13,082 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:13,082 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:13,082 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:13,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:12:13,133 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:13,143 - basicLogger - INFO - Received 10 events
+2021-11-24 09:12:15,379 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:15,379 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:15,379 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:17,610 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:17,610 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:17,610 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:18,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:12:18,135 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:18,145 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:20,435 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:20,435 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:20,435 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:22,692 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:22,692 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:22,693 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:23,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:12:23,134 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:23,144 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:25,726 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:25,726 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:25,726 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:27,964 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:27,964 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:27,965 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:28,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:12:28,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:28,140 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:31,025 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:31,025 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:31,025 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:33,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:12:33,136 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:33,144 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:33,308 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:33,308 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:33,308 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:36,349 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:36,350 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:36,350 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:38,121 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:12:38,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:38,142 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:38,644 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:38,644 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:38,644 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:41,673 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:41,674 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:41,674 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:43,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:12:43,135 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:43,145 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:43,934 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:43,934 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:43,935 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:46,959 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:46,959 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:46,959 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:48,121 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:12:48,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:48,141 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:49,295 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:49,295 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:49,295 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:52,335 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:52,335 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:52,335 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:53,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:12:53,133 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:53,142 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:55,090 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:55,090 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:55,090 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:57,791 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:12:57,791 - basicLogger - DEBUG - Contents:
+2021-11-24 09:12:57,791 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:12:58,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:12:58,134 - basicLogger - INFO - Received 0 events
+2021-11-24 09:12:58,143 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:00,039 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:00,040 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:00,040 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:03,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:13:03,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:03,141 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:04,426 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:04,426 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:04,426 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:05,026 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:05,027 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:05,027 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:07,282 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:07,282 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:07,282 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:08,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:13:08,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:08,141 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:09,680 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:09,680 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:09,681 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:11,931 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:11,932 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:11,932 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:13,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:13:13,137 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:13,146 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:14,174 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:14,174 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:14,174 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:16,425 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:16,425 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:16,425 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:18,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:13:18,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:18,145 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:18,664 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:18,664 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:18,664 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:20,904 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:20,905 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:20,905 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:23,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:13:23,135 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:23,145 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:23,151 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:23,151 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:23,151 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:25,417 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:25,418 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:25,418 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:27,656 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:27,656 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:27,656 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:28,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:13:28,133 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:28,142 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:29,903 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:29,904 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:29,904 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:32,131 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:32,131 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:32,131 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:33,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:13:33,133 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:33,142 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:34,374 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:34,374 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:34,374 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:36,631 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:36,631 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:36,631 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:38,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:13:38,135 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:38,145 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:38,882 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:38,883 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:38,883 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:41,120 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:41,120 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:41,120 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:43,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:13:43,133 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:43,144 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:43,351 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:43,351 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:43,351 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:45,589 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:45,589 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:45,589 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:47,811 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:47,812 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:47,812 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:48,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:13:48,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:48,140 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:50,036 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:50,037 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:50,037 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:52,299 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:52,299 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:52,299 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:53,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:13:53,133 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:53,142 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:54,541 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:54,542 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:54,542 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:56,805 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:56,806 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:56,806 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:13:58,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:13:58,131 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:58,140 - basicLogger - INFO - Received 0 events
+2021-11-24 09:13:59,043 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:13:59,044 - basicLogger - DEBUG - Contents:
+2021-11-24 09:13:59,044 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:01,311 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:01,311 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:01,312 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:03,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:14:03,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:03,141 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:03,551 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:03,552 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:03,552 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:05,799 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:05,799 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:05,799 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:08,043 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:08,043 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:08,043 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:08,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:14:08,131 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:08,143 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:10,266 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:10,266 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:10,266 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:12,512 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:12,512 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:12,513 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:13,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:14:13,133 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:13,146 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:14,784 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:14,785 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:14,785 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:17,032 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:17,032 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:17,032 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:18,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:14:18,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:18,143 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:19,276 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:19,277 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:19,277 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:21,510 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:21,511 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:21,511 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:23,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:14:23,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:23,141 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:23,736 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:23,737 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:23,737 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:25,979 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:25,980 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:25,980 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:28,121 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:14:28,138 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:28,148 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:28,215 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:28,215 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:28,215 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:30,439 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:30,439 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:30,439 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:32,675 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:32,675 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:32,675 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:33,121 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:14:33,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:33,141 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:34,910 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:34,910 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:34,910 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:37,176 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:37,177 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:37,177 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:38,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:14:38,131 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:38,139 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:39,436 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:39,437 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:39,437 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:41,682 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:41,682 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:41,682 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:43,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:14:43,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:43,142 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:43,974 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:43,974 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:43,975 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:46,213 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:46,213 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:46,213 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:48,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:14:48,131 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:48,153 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:48,448 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:48,449 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:48,449 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:50,697 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:50,697 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:50,697 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:52,934 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:52,934 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:52,934 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:53,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:14:53,131 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:53,140 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:55,170 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:55,171 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:55,171 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:57,399 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:57,400 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:57,400 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:14:58,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:14:58,133 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:58,143 - basicLogger - INFO - Received 0 events
+2021-11-24 09:14:59,643 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:14:59,644 - basicLogger - DEBUG - Contents:
+2021-11-24 09:14:59,644 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:01,881 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:01,881 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:01,881 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:03,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:15:03,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:15:03,149 - basicLogger - INFO - Received 0 events
+2021-11-24 09:15:04,125 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:04,125 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:04,125 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:06,349 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:06,349 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:06,349 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:08,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:15:08,134 - basicLogger - INFO - Received 0 events
+2021-11-24 09:15:08,145 - basicLogger - INFO - Received 0 events
+2021-11-24 09:15:08,634 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:08,634 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:08,634 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:10,876 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:10,876 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:10,876 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:13,110 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:13,110 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:13,110 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:13,120 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:15:13,132 - basicLogger - INFO - Received 0 events
+2021-11-24 09:15:13,141 - basicLogger - INFO - Received 0 events
+2021-11-24 09:15:15,348 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:15,348 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:15,349 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:35,599 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 09:15:35,599 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 09:15:35,653 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 09:15:35,653 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 09:15:36,108 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:36,108 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:36,109 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:38,393 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:38,394 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:38,394 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:40,642 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:40,643 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:40,643 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:40,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:15:40,748 - basicLogger - INFO - Received 0 events
+2021-11-24 09:15:40,758 - basicLogger - INFO - Received 0 events
+2021-11-24 09:15:42,891 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:42,891 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:42,891 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:44,470 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:44,471 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:44,471 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:45,147 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:45,147 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:45,147 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:45,734 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:15:45,748 - basicLogger - INFO - Received 0 events
+2021-11-24 09:15:45,757 - basicLogger - INFO - Received 0 events
+2021-11-24 09:15:47,399 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:47,399 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:47,400 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:49,634 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:49,634 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:49,634 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:50,735 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:15:50,750 - basicLogger - INFO - Received 0 events
+2021-11-24 09:15:50,759 - basicLogger - INFO - Received 0 events
+2021-11-24 09:15:51,865 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:51,865 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:51,866 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:54,088 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:54,088 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:54,088 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:15:55,737 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:15:55,750 - basicLogger - INFO - Received 0 events
+2021-11-24 09:15:55,764 - basicLogger - INFO - Received 0 events
+2021-11-24 09:15:56,324 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:15:56,325 - basicLogger - DEBUG - Contents:
+2021-11-24 09:15:56,325 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:16:00,736 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:16:00,748 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:00,756 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:02,892 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:16:02,892 - basicLogger - DEBUG - Contents:
+2021-11-24 09:16:02,892 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:16:03,801 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:16:03,801 - basicLogger - DEBUG - Contents:
+2021-11-24 09:16:03,801 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:16:04,116 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:16:04,117 - basicLogger - DEBUG - Contents:
+2021-11-24 09:16:04,117 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:16:05,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:16:05,748 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:05,757 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:06,260 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:16:06,260 - basicLogger - DEBUG - Contents:
+2021-11-24 09:16:06,260 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:16:06,416 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:16:06,416 - basicLogger - DEBUG - Contents:
+2021-11-24 09:16:06,416 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:16:10,734 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:16:10,745 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:10,754 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:15,735 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:16:15,747 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:15,755 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:20,734 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:16:20,746 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:20,755 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:25,736 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:16:25,748 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:25,757 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:30,734 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:16:30,746 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:30,761 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:35,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:16:35,744 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:35,752 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:40,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:16:40,745 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:40,754 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:45,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:16:45,745 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:45,754 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:50,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:16:50,745 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:50,754 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:55,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:16:55,748 - basicLogger - INFO - Received 0 events
+2021-11-24 09:16:55,759 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:00,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:17:00,745 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:00,755 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:05,734 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:17:05,748 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:05,758 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:10,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:17:10,745 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:10,754 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:15,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:17:15,744 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:15,755 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:20,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:17:20,748 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:20,758 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:25,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:17:25,745 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:25,753 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:30,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:17:30,744 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:30,753 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:35,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:17:35,745 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:35,760 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:40,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:17:40,746 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:40,755 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:45,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:17:45,746 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:45,758 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:50,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:17:50,745 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:50,754 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:55,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:17:55,746 - basicLogger - INFO - Received 0 events
+2021-11-24 09:17:55,757 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:00,736 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:18:00,750 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:00,760 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:05,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:18:05,744 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:05,754 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:10,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:18:10,744 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:10,753 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:15,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:18:15,746 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:15,755 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:20,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:18:20,746 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:20,757 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:25,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:18:25,744 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:25,752 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:30,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:18:30,745 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:30,753 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:35,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:18:35,744 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:35,752 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:40,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:18:40,744 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:40,753 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:45,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:18:45,744 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:45,754 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:50,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:18:50,747 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:50,756 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:55,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:18:55,745 - basicLogger - INFO - Received 0 events
+2021-11-24 09:18:55,756 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:00,358 - basicLogger - INFO - Statistics retrieval started.
+2021-11-24 09:19:00,358 - basicLogger - DEBUG - Contents:
+2021-11-24 09:19:00,358 - basicLogger - INFO - get_stats request complete.
+2021-11-24 09:19:00,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:19:00,745 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:00,754 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:05,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:19:05,746 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:05,755 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:10,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:19:10,746 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:10,757 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:15,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:19:15,745 - basicLogger - INFO - Received 4 events
+2021-11-24 09:19:15,745 - basicLogger - ERROR - Invalid Weather Forecast get request
+2021-11-24 09:19:15,762 - basicLogger - INFO - Received 4 events
+2021-11-24 09:19:15,762 - basicLogger - ERROR - Invalid Misc Weather get request
+2021-11-24 09:19:20,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:19:20,765 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:20,777 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:25,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:19:25,745 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:25,755 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:30,734 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:19:30,744 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:30,756 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:35,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:19:35,743 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:35,753 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:40,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:19:40,744 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:40,754 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:45,733 - basicLogger - INFO - Periodic processing started.
+2021-11-24 09:19:45,745 - basicLogger - INFO - Received 0 events
+2021-11-24 09:19:45,757 - basicLogger - INFO - Received 0 events

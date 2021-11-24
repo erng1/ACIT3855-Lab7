@@ -5,7 +5,7 @@
 import connexion
 from connexion import NoContent
 
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, and_
 from sqlalchemy.orm import sessionmaker
 from base import Base
 from weather_forecast import WeatherForecast
@@ -20,9 +20,33 @@ from pykafka import KafkaClient
 from pykafka.common import OffsetType
 from threading import Thread
 
+import time
 
-with open('app_conf.yaml', 'r') as f:
+import os
+
+
+if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
+    print("In Test Environment")
+    app_conf_file = "/config/app_conf.yaml"
+    log_conf_file = "/config/log_conf.yaml"
+else:
+    print("In Dev Environment")
+    app_conf_file = "app_conf.yaml"
+    log_conf_file = "log_conf.yaml"
+
+with open(app_conf_file, 'r') as f:
     app_config = yaml.safe_load(f.read())
+
+# External Logging Configuration
+with open(log_conf_file, 'r') as f:
+    log_config = yaml.safe_load(f.read())
+    logging.config.dictConfig(log_config)
+
+logger = logging.getLogger('basicLogger')
+
+logger.info("App Conf File: %s" % app_conf_file)
+logger.info("Log Conf File: %s" % log_conf_file)
+
 
 # setting variables from app_conf.yaml
 user = app_config['datastore']['user']
@@ -35,19 +59,15 @@ DB_ENGINE = create_engine(f"mysql+pymysql://{user}:{password}@{hostname}:{port}/
 Base.metadata.bind = DB_ENGINE
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
 
-with open('log_conf.yaml', 'r') as f:
-    log_config = yaml.safe_load(f.read())
-    logging.config.dictConfig(log_config)
 
-logger = logging.getLogger('basicLogger')
-
-
-def get_weather_forecast(timestamp):
+def get_weather_forecast(start_timestamp, end_timestamp):
     """ Gets new weather forecasts after the timestamp """
 
     session = DB_SESSION()
-    timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
-    forecasts = session.query(WeatherForecast).filter(WeatherForecast.date_created >= timestamp_datetime)
+
+    start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    forecasts = session.query(WeatherForecast).filter(and_(WeatherForecast.date_created >= start_timestamp_datetime, WeatherForecast.date_created < end_timestamp_datetime))
 
     results_list = []
     for forecast in forecasts:
@@ -56,17 +76,19 @@ def get_weather_forecast(timestamp):
     print(results_list)
 
     session.close()
-    logger.info("Query for Weather Forecast after %s returns %d results" % (timestamp, len(results_list)))
+    logger.info("Query for Weather Forecast after %s returns %d results" % (start_timestamp, len(results_list)))
 
     return results_list, 200
 
 
-def get_misc_weather(timestamp):
+def get_misc_weather(start_timestamp, end_timestamp):
     """ Gets new misc weather info after the timestamp """
 
     session = DB_SESSION()
-    timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
-    misc_info = session.query(MiscWeather).filter(MiscWeather.date_created >= timestamp_datetime)
+
+    start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    misc_info = session.query(MiscWeather).filter(and_(MiscWeather.date_created >= start_timestamp_datetime, MiscWeather.date_created < end_timestamp_datetime))
 
     results_list = []
     for info in misc_info:
@@ -75,7 +97,7 @@ def get_misc_weather(timestamp):
     print(results_list)
 
     session.close()
-    logger.info("Query for Weather Forecast after %s returns %d results" % (timestamp, len(results_list)))
+    logger.info("Query for Weather Forecast after %s returns %d results" % (start_timestamp, len(results_list)))
 
     return results_list, 200
 
@@ -84,8 +106,24 @@ def process_messages():
     """ Process event messages """
 
     hostname2 = "%s:%d" % (app_config["events"]["hostname"], app_config["events"]["port"])
-    client = KafkaClient(hosts=hostname2)
-    topic = client.topics[str.encode(app_config["events"]["topic"])]
+
+#    client = KafkaClient(hosts=hostname2)
+#    topic = client.topics[str.encode(app_config["events"]["topic"])]
+
+    retry_count = 0
+    max_retries = app_config["connection"]["max_retries"]
+    while retry_count < max_retries:
+        try:
+            logger.info("Attempting to connect to Kafka... Retry count: %s" % retry_count)
+            client = KafkaClient(hosts=hostname2)
+            topic = client.topics[str.encode(app_config["events"]["topic"])]
+        except Exception:
+            logger.error("Kafka connection failed.")
+            time.sleep(app_config["connection"]["sleep_time"])
+            retry_count += 1
+            continue
+        logger.info("Successfully connected to Kafka.")
+        break
 
     # Create a consume on a consumer group, that only reads new messages
     # (uncommitted messages) when the service re-starts (i.e., it doesn't

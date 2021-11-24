@@ -1,0 +1,232 @@
+2021-11-24 08:50:31,775 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 08:50:31,796 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 08:50:31,796 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-11-24 08:50:31,848 - basicLogger - ERROR - Kafka connection failed.
+2021-11-24 08:50:36,852 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-11-24 08:50:36,872 - basicLogger - ERROR - Kafka connection failed.
+2021-11-24 08:50:41,876 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 2
+2021-11-24 08:50:41,907 - basicLogger - INFO - Successfully connected to Kafka.
+2021-11-24 08:50:42,025 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 08:50:42,026 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 08:50:42,026 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-11-24 08:50:42,047 - basicLogger - INFO - Successfully connected to Kafka.
+2021-11-24 09:02:20,210 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 09:02:20,220 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 09:02:20,220 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-11-24 09:02:20,273 - basicLogger - ERROR - Kafka connection failed.
+2021-11-24 09:02:25,276 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-11-24 09:02:28,071 - basicLogger - INFO - Successfully connected to Kafka.
+2021-11-24 09:02:28,231 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 09:02:28,231 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 09:02:28,232 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-11-24 09:02:28,251 - basicLogger - INFO - Successfully connected to Kafka.
+2021-11-24 09:08:38,121 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 09:08:38,121 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 09:08:38,121 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-11-24 09:08:38,160 - basicLogger - ERROR - Kafka connection failed.
+2021-11-24 09:08:43,164 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-11-24 09:08:43,637 - basicLogger - INFO - Successfully connected to Kafka.
+2021-11-24 09:08:43,792 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 09:08:43,796 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 09:08:43,796 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-11-24 09:08:43,822 - basicLogger - INFO - Successfully connected to Kafka.
+2021-11-24 09:11:21,633 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 11
+2021-11-24 09:11:21,657 - basicLogger - INFO - Returned event WeatherForecast response (ID: 11) with status 201
+2021-11-24 09:11:21,719 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 15
+2021-11-24 09:11:21,723 - basicLogger - INFO - Returned event WeatherForecast response (ID: 15) with status 201
+2021-11-24 09:11:21,832 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 1
+2021-11-24 09:11:21,837 - basicLogger - INFO - Returned event WeatherForecast response (ID: 1) with status 201
+2021-11-24 09:11:21,939 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 15
+2021-11-24 09:11:21,944 - basicLogger - INFO - Returned event WeatherForecast response (ID: 15) with status 201
+2021-11-24 09:11:22,013 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 8
+2021-11-24 09:11:22,021 - basicLogger - INFO - Returned event WeatherForecast response (ID: 8) with status 201
+2021-11-24 09:11:22,110 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 4
+2021-11-24 09:11:22,119 - basicLogger - INFO - Returned event WeatherForecast response (ID: 4) with status 201
+2021-11-24 09:11:22,235 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 4
+2021-11-24 09:11:22,239 - basicLogger - INFO - Returned event WeatherForecast response (ID: 4) with status 201
+2021-11-24 09:11:22,320 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 10
+2021-11-24 09:11:22,324 - basicLogger - INFO - Returned event WeatherForecast response (ID: 10) with status 201
+2021-11-24 09:11:22,425 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 14
+2021-11-24 09:11:22,432 - basicLogger - INFO - Returned event WeatherForecast response (ID: 14) with status 201
+2021-11-24 09:11:22,535 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 12
+2021-11-24 09:11:22,540 - basicLogger - INFO - Returned event WeatherForecast response (ID: 12) with status 201
+2021-11-24 09:11:26,878 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 21
+2021-11-24 09:11:26,882 - basicLogger - INFO - Returned event MiscWeather response (ID: 21) with status 201
+2021-11-24 09:11:26,916 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 128
+2021-11-24 09:11:26,920 - basicLogger - INFO - Returned event MiscWeather response (ID: 128) with status 201
+2021-11-24 09:11:27,028 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 72
+2021-11-24 09:11:27,032 - basicLogger - INFO - Returned event MiscWeather response (ID: 72) with status 201
+2021-11-24 09:11:27,152 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 22
+2021-11-24 09:11:27,157 - basicLogger - INFO - Returned event MiscWeather response (ID: 22) with status 201
+2021-11-24 09:11:27,251 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 66
+2021-11-24 09:11:27,255 - basicLogger - INFO - Returned event MiscWeather response (ID: 66) with status 201
+2021-11-24 09:11:27,343 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 69
+2021-11-24 09:11:27,347 - basicLogger - INFO - Returned event MiscWeather response (ID: 69) with status 201
+2021-11-24 09:11:27,443 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 45
+2021-11-24 09:11:27,447 - basicLogger - INFO - Returned event MiscWeather response (ID: 45) with status 201
+2021-11-24 09:11:27,526 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 193
+2021-11-24 09:11:27,530 - basicLogger - INFO - Returned event MiscWeather response (ID: 193) with status 201
+2021-11-24 09:11:27,624 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 143
+2021-11-24 09:11:27,627 - basicLogger - INFO - Returned event MiscWeather response (ID: 143) with status 201
+2021-11-24 09:11:27,746 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 54
+2021-11-24 09:11:27,749 - basicLogger - INFO - Returned event MiscWeather response (ID: 54) with status 201
+2021-11-24 09:11:32,088 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 13
+2021-11-24 09:11:32,092 - basicLogger - INFO - Returned event WeatherForecast response (ID: 13) with status 201
+2021-11-24 09:11:32,127 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 20
+2021-11-24 09:11:32,130 - basicLogger - INFO - Returned event WeatherForecast response (ID: 20) with status 201
+2021-11-24 09:11:32,239 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 3
+2021-11-24 09:11:32,243 - basicLogger - INFO - Returned event WeatherForecast response (ID: 3) with status 201
+2021-11-24 09:11:32,358 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 11
+2021-11-24 09:11:32,361 - basicLogger - INFO - Returned event WeatherForecast response (ID: 11) with status 201
+2021-11-24 09:11:32,467 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 11
+2021-11-24 09:11:32,472 - basicLogger - INFO - Returned event WeatherForecast response (ID: 11) with status 201
+2021-11-24 09:11:32,542 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 9
+2021-11-24 09:11:32,548 - basicLogger - INFO - Returned event WeatherForecast response (ID: 9) with status 201
+2021-11-24 09:11:32,667 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 18
+2021-11-24 09:11:32,671 - basicLogger - INFO - Returned event WeatherForecast response (ID: 18) with status 201
+2021-11-24 09:11:32,733 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 20
+2021-11-24 09:11:32,737 - basicLogger - INFO - Returned event WeatherForecast response (ID: 20) with status 201
+2021-11-24 09:11:32,832 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 10
+2021-11-24 09:11:32,839 - basicLogger - INFO - Returned event WeatherForecast response (ID: 10) with status 201
+2021-11-24 09:11:32,947 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 14
+2021-11-24 09:11:32,951 - basicLogger - INFO - Returned event WeatherForecast response (ID: 14) with status 201
+2021-11-24 09:11:37,292 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 162
+2021-11-24 09:11:37,295 - basicLogger - INFO - Returned event MiscWeather response (ID: 162) with status 201
+2021-11-24 09:11:37,324 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 71
+2021-11-24 09:11:37,329 - basicLogger - INFO - Returned event MiscWeather response (ID: 71) with status 201
+2021-11-24 09:11:37,447 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 47
+2021-11-24 09:11:37,451 - basicLogger - INFO - Returned event MiscWeather response (ID: 47) with status 201
+2021-11-24 09:11:37,562 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 140
+2021-11-24 09:11:37,566 - basicLogger - INFO - Returned event MiscWeather response (ID: 140) with status 201
+2021-11-24 09:11:37,671 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 23
+2021-11-24 09:11:37,677 - basicLogger - INFO - Returned event MiscWeather response (ID: 23) with status 201
+2021-11-24 09:11:37,769 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 117
+2021-11-24 09:11:37,773 - basicLogger - INFO - Returned event MiscWeather response (ID: 117) with status 201
+2021-11-24 09:11:37,876 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 22
+2021-11-24 09:11:37,880 - basicLogger - INFO - Returned event MiscWeather response (ID: 22) with status 201
+2021-11-24 09:11:37,937 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 175
+2021-11-24 09:11:37,941 - basicLogger - INFO - Returned event MiscWeather response (ID: 175) with status 201
+2021-11-24 09:11:38,030 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 1
+2021-11-24 09:11:38,035 - basicLogger - INFO - Returned event MiscWeather response (ID: 1) with status 201
+2021-11-24 09:11:38,159 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 97
+2021-11-24 09:11:38,163 - basicLogger - INFO - Returned event MiscWeather response (ID: 97) with status 201
+2021-11-24 09:11:42,491 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 5
+2021-11-24 09:11:42,495 - basicLogger - INFO - Returned event WeatherForecast response (ID: 5) with status 201
+2021-11-24 09:11:42,534 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 2
+2021-11-24 09:11:42,539 - basicLogger - INFO - Returned event WeatherForecast response (ID: 2) with status 201
+2021-11-24 09:11:42,658 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 16
+2021-11-24 09:11:42,662 - basicLogger - INFO - Returned event WeatherForecast response (ID: 16) with status 201
+2021-11-24 09:11:42,784 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 7
+2021-11-24 09:11:42,790 - basicLogger - INFO - Returned event WeatherForecast response (ID: 7) with status 201
+2021-11-24 09:11:42,889 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 15
+2021-11-24 09:11:42,894 - basicLogger - INFO - Returned event WeatherForecast response (ID: 15) with status 201
+2021-11-24 09:11:42,973 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 5
+2021-11-24 09:11:42,979 - basicLogger - INFO - Returned event WeatherForecast response (ID: 5) with status 201
+2021-11-24 09:11:43,065 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 12
+2021-11-24 09:11:43,071 - basicLogger - INFO - Returned event WeatherForecast response (ID: 12) with status 201
+2021-11-24 09:11:43,143 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 3
+2021-11-24 09:11:43,147 - basicLogger - INFO - Returned event WeatherForecast response (ID: 3) with status 201
+2021-11-24 09:11:43,235 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 12
+2021-11-24 09:11:43,238 - basicLogger - INFO - Returned event WeatherForecast response (ID: 12) with status 201
+2021-11-24 09:11:43,355 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 6
+2021-11-24 09:11:43,359 - basicLogger - INFO - Returned event WeatherForecast response (ID: 6) with status 201
+2021-11-24 09:11:47,698 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 172
+2021-11-24 09:11:47,702 - basicLogger - INFO - Returned event MiscWeather response (ID: 172) with status 201
+2021-11-24 09:11:47,732 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 27
+2021-11-24 09:11:47,737 - basicLogger - INFO - Returned event MiscWeather response (ID: 27) with status 201
+2021-11-24 09:11:47,869 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 200
+2021-11-24 09:11:47,872 - basicLogger - INFO - Returned event MiscWeather response (ID: 200) with status 201
+2021-11-24 09:11:47,982 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 19
+2021-11-24 09:11:47,986 - basicLogger - INFO - Returned event MiscWeather response (ID: 19) with status 201
+2021-11-24 09:11:48,108 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 98
+2021-11-24 09:11:48,113 - basicLogger - INFO - Returned event MiscWeather response (ID: 98) with status 201
+2021-11-24 09:11:48,172 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 97
+2021-11-24 09:11:48,175 - basicLogger - INFO - Returned event MiscWeather response (ID: 97) with status 201
+2021-11-24 09:11:48,285 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 91
+2021-11-24 09:11:48,288 - basicLogger - INFO - Returned event MiscWeather response (ID: 91) with status 201
+2021-11-24 09:11:48,346 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 51
+2021-11-24 09:11:48,350 - basicLogger - INFO - Returned event MiscWeather response (ID: 51) with status 201
+2021-11-24 09:11:48,438 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 186
+2021-11-24 09:11:48,441 - basicLogger - INFO - Returned event MiscWeather response (ID: 186) with status 201
+2021-11-24 09:11:48,574 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 72
+2021-11-24 09:11:48,577 - basicLogger - INFO - Returned event MiscWeather response (ID: 72) with status 201
+2021-11-24 09:11:52,982 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 11
+2021-11-24 09:11:52,985 - basicLogger - INFO - Returned event WeatherForecast response (ID: 11) with status 201
+2021-11-24 09:11:52,997 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 13
+2021-11-24 09:11:53,006 - basicLogger - INFO - Returned event WeatherForecast response (ID: 13) with status 201
+2021-11-24 09:11:53,072 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 1
+2021-11-24 09:11:53,076 - basicLogger - INFO - Returned event WeatherForecast response (ID: 1) with status 201
+2021-11-24 09:11:53,195 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 16
+2021-11-24 09:11:53,200 - basicLogger - INFO - Returned event WeatherForecast response (ID: 16) with status 201
+2021-11-24 09:11:53,311 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 19
+2021-11-24 09:11:53,314 - basicLogger - INFO - Returned event WeatherForecast response (ID: 19) with status 201
+2021-11-24 09:11:53,392 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 2
+2021-11-24 09:11:53,395 - basicLogger - INFO - Returned event WeatherForecast response (ID: 2) with status 201
+2021-11-24 09:11:53,497 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 1
+2021-11-24 09:11:53,500 - basicLogger - INFO - Returned event WeatherForecast response (ID: 1) with status 201
+2021-11-24 09:11:53,561 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 14
+2021-11-24 09:11:53,565 - basicLogger - INFO - Returned event WeatherForecast response (ID: 14) with status 201
+2021-11-24 09:11:53,667 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 14
+2021-11-24 09:11:53,671 - basicLogger - INFO - Returned event WeatherForecast response (ID: 14) with status 201
+2021-11-24 09:11:53,775 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 15
+2021-11-24 09:11:53,779 - basicLogger - INFO - Returned event WeatherForecast response (ID: 15) with status 201
+2021-11-24 09:11:58,181 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 195
+2021-11-24 09:11:58,187 - basicLogger - INFO - Returned event MiscWeather response (ID: 195) with status 201
+2021-11-24 09:11:58,199 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 165
+2021-11-24 09:11:58,203 - basicLogger - INFO - Returned event MiscWeather response (ID: 165) with status 201
+2021-11-24 09:11:58,293 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 46
+2021-11-24 09:11:58,296 - basicLogger - INFO - Returned event MiscWeather response (ID: 46) with status 201
+2021-11-24 09:11:58,415 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 195
+2021-11-24 09:11:58,418 - basicLogger - INFO - Returned event MiscWeather response (ID: 195) with status 201
+2021-11-24 09:11:58,521 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 170
+2021-11-24 09:11:58,525 - basicLogger - INFO - Returned event MiscWeather response (ID: 170) with status 201
+2021-11-24 09:11:58,594 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 197
+2021-11-24 09:11:58,597 - basicLogger - INFO - Returned event MiscWeather response (ID: 197) with status 201
+2021-11-24 09:11:58,724 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 148
+2021-11-24 09:11:58,728 - basicLogger - INFO - Returned event MiscWeather response (ID: 148) with status 201
+2021-11-24 09:11:58,783 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 75
+2021-11-24 09:11:58,789 - basicLogger - INFO - Returned event MiscWeather response (ID: 75) with status 201
+2021-11-24 09:11:58,875 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 108
+2021-11-24 09:11:58,881 - basicLogger - INFO - Returned event MiscWeather response (ID: 108) with status 201
+2021-11-24 09:11:58,983 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 180
+2021-11-24 09:11:58,988 - basicLogger - INFO - Returned event MiscWeather response (ID: 180) with status 201
+2021-11-24 09:12:03,402 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 19
+2021-11-24 09:12:03,407 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 13
+2021-11-24 09:12:03,408 - basicLogger - INFO - Returned event WeatherForecast response (ID: 19) with status 201
+2021-11-24 09:12:03,411 - basicLogger - INFO - Returned event WeatherForecast response (ID: 13) with status 201
+2021-11-24 09:12:03,501 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 0
+2021-11-24 09:12:03,506 - basicLogger - INFO - Returned event WeatherForecast response (ID: 0) with status 201
+2021-11-24 09:12:03,624 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 3
+2021-11-24 09:12:03,628 - basicLogger - INFO - Returned event WeatherForecast response (ID: 3) with status 201
+2021-11-24 09:12:03,739 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 13
+2021-11-24 09:12:03,743 - basicLogger - INFO - Returned event WeatherForecast response (ID: 13) with status 201
+2021-11-24 09:12:03,791 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 7
+2021-11-24 09:12:03,798 - basicLogger - INFO - Returned event WeatherForecast response (ID: 7) with status 201
+2021-11-24 09:12:03,922 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 5
+2021-11-24 09:12:03,926 - basicLogger - INFO - Returned event WeatherForecast response (ID: 5) with status 201
+2021-11-24 09:12:03,992 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 11
+2021-11-24 09:12:03,996 - basicLogger - INFO - Returned event WeatherForecast response (ID: 11) with status 201
+2021-11-24 09:12:04,078 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 18
+2021-11-24 09:12:04,081 - basicLogger - INFO - Returned event WeatherForecast response (ID: 18) with status 201
+2021-11-24 09:12:04,182 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 13
+2021-11-24 09:12:04,187 - basicLogger - INFO - Returned event WeatherForecast response (ID: 13) with status 201
+2021-11-24 09:12:08,605 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 109
+2021-11-24 09:12:08,609 - basicLogger - INFO - Returned event MiscWeather response (ID: 109) with status 201
+2021-11-24 09:12:08,621 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 91
+2021-11-24 09:12:08,625 - basicLogger - INFO - Returned event MiscWeather response (ID: 91) with status 201
+2021-11-24 09:12:08,702 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 96
+2021-11-24 09:12:08,706 - basicLogger - INFO - Returned event MiscWeather response (ID: 96) with status 201
+2021-11-24 09:12:08,819 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 69
+2021-11-24 09:12:08,824 - basicLogger - INFO - Returned event MiscWeather response (ID: 69) with status 201
+2021-11-24 09:12:08,948 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 190
+2021-11-24 09:12:08,954 - basicLogger - INFO - Returned event MiscWeather response (ID: 190) with status 201
+2021-11-24 09:12:08,993 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 144
+2021-11-24 09:12:09,000 - basicLogger - INFO - Returned event MiscWeather response (ID: 144) with status 201
+2021-11-24 09:12:09,122 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 46
+2021-11-24 09:12:09,126 - basicLogger - INFO - Returned event MiscWeather response (ID: 46) with status 201
+2021-11-24 09:12:09,191 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 156
+2021-11-24 09:12:09,198 - basicLogger - INFO - Returned event MiscWeather response (ID: 156) with status 201
+2021-11-24 09:12:09,273 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 27
+2021-11-24 09:12:09,278 - basicLogger - INFO - Returned event MiscWeather response (ID: 27) with status 201
+2021-11-24 09:12:09,391 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 63
+2021-11-24 09:12:09,395 - basicLogger - INFO - Returned event MiscWeather response (ID: 63) with status 201
