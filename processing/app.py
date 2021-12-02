@@ -15,14 +15,31 @@ import requests
 from flask_cors import CORS, cross_origin
 
 
-with open('app_conf.yaml', 'r') as f:
+if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
+    CORS(app.app)
+    app.app.config['CORS_HEADERS'] = 'Content-Type'
+
+if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
+    print("In Test Environment")
+    app_conf_file = "/config/app_conf.yaml"
+    log_conf_file = "/config/log_conf.yaml"
+else:
+    print("In Dev Environment")
+    app_conf_file = "app_conf.yaml"
+    log_conf_file = "log_conf.yaml"
+
+with open(app_conf_file, 'r') as f:
     app_config = yaml.safe_load(f.read())
 
-with open('log_conf.yaml', 'r') as f:
+# External Logging Configuration
+with open(log_conf_file, 'r') as f:
     log_config = yaml.safe_load(f.read())
     logging.config.dictConfig(log_config)
 
 logger = logging.getLogger('basicLogger')
+
+logger.info("App Conf File: %s" % app_conf_file)
+logger.info("Log Conf File: %s" % log_conf_file)
 
 
 def get_stats():
@@ -30,8 +47,8 @@ def get_stats():
 
     logger.info("Statistics retrieval started.")
 
-    if os.path.isfile('data.json'):
-        with open('data.json', 'r') as f:
+    if os.path.isfile('/data/data.json'):
+        with open('/data/data.json', 'r') as f:
             data = json.loads(f.read())
     else:
         logger.error("File does not exist. Failed to retrieve statistics.")
@@ -49,8 +66,8 @@ def populate_stats():
 
     logger.info("Periodic processing started.")
 
-    if os.path.isfile('data.json'):
-        with open('data.json', 'r') as f:
+    if os.path.isfile('/data/data.json'):
+        with open('/data/data.json', 'r') as f:
             data = json.loads(f.read())
     else:
         data = {
@@ -61,27 +78,29 @@ def populate_stats():
             "last_updated": "2021-02-05T12:39:16Z"
         }
 
-    # get current datetime
-    current_datetime = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
+    # get current timestamp
+    current_timestamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    last_updated = {"timestamp": data['last_updated']}
+    last_updated = data['last_updated']
 
     # get rows from weather_forecast table
-    response = requests.get(url=app_config['eventstore1']['url'], params=last_updated)
-    events1 = json.loads(response.content)
+    url1 = app_config['eventstore1']['url'] + "?start_timestamp=" + last_updated + "&end_timestamp=" + current_timestamp
+    response1 = requests.get(url1)
+    events1 = json.loads(response1.content)
     logger.info("Received " + str(len(events1)) + " events")
     #print("Events1:", events1)
-    print("Current datetime:", last_updated)
+    print("Current timestamp:", current_timestamp)
     print("Events dates:", end=" ")
     print(events['date_created'] for events in events1)
-    if response.status_code != 200:
+    if response1.status_code != 200:
         logger.error("Invalid Weather Forecast get request")
 
     # get rows from misc_weather table
-    response2 = requests.get(url=app_config['eventstore2']['url'], params=last_updated)
+    url2 = app_config['eventstore2']['url'] + "?start_timestamp=" + last_updated + "&end_timestamp=" + current_timestamp
+    response2 = requests.get(url2)
     events2 = json.loads(response2.content)
     #print("Events2:", events2)
-    print("Current datetime:", last_updated)
+    print("Current timestamp:", current_timestamp)
     print("Events dates:", end=" ")
     print(events['date_created'] for events in events2)
     logger.info("Received " + str(len(events2)) + " events")
@@ -99,9 +118,9 @@ def populate_stats():
             data['min_temperature'] = min_temp
     if events2:
         data['num_mw_reports'] += len(events2)
-    data['last_updated'] = current_datetime
+    data['last_updated'] = current_timestamp
 
-    with open('data.json', 'w+') as f:
+    with open('/data/data.json', 'w+') as f:
         f.write(json.dumps(data, indent=4))
 
 
@@ -115,6 +134,7 @@ app = connexion.FlaskApp(__name__, specification_dir='')
 CORS(app.app)
 app.app.config['CORS_HEADERS'] = 'Content-Type'
 app.add_api("openapi.yaml",
+            base_path="/processing",
             strict_validation=True,
             validate_responses=True)
 

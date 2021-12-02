@@ -9,6 +9,3 @@ events:
   hostname: 'kafka-acit3855-lab6a.eastus2.cloudapp.azure.com'
   port: 9092
   topic: events
-connection:
-  max_retries: 60
-  sleep_time: 5

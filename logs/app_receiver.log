@@ -1,0 +1,522 @@
+2021-11-24 08:50:31,775 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 08:50:31,796 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 08:50:31,796 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-11-24 08:50:31,848 - basicLogger - ERROR - Kafka connection failed.
+2021-11-24 08:50:36,852 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-11-24 08:50:36,872 - basicLogger - ERROR - Kafka connection failed.
+2021-11-24 08:50:41,876 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 2
+2021-11-24 08:50:41,907 - basicLogger - INFO - Successfully connected to Kafka.
+2021-11-24 08:50:42,025 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 08:50:42,026 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 08:50:42,026 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-11-24 08:50:42,047 - basicLogger - INFO - Successfully connected to Kafka.
+2021-11-24 09:02:20,210 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 09:02:20,220 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 09:02:20,220 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-11-24 09:02:20,273 - basicLogger - ERROR - Kafka connection failed.
+2021-11-24 09:02:25,276 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-11-24 09:02:28,071 - basicLogger - INFO - Successfully connected to Kafka.
+2021-11-24 09:02:28,231 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 09:02:28,231 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 09:02:28,232 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-11-24 09:02:28,251 - basicLogger - INFO - Successfully connected to Kafka.
+2021-11-24 09:08:38,121 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 09:08:38,121 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 09:08:38,121 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-11-24 09:08:38,160 - basicLogger - ERROR - Kafka connection failed.
+2021-11-24 09:08:43,164 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-11-24 09:08:43,637 - basicLogger - INFO - Successfully connected to Kafka.
+2021-11-24 09:08:43,792 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-24 09:08:43,796 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-24 09:08:43,796 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-11-24 09:08:43,822 - basicLogger - INFO - Successfully connected to Kafka.
+2021-11-24 09:11:21,633 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 11
+2021-11-24 09:11:21,657 - basicLogger - INFO - Returned event WeatherForecast response (ID: 11) with status 201
+2021-11-24 09:11:21,719 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 15
+2021-11-24 09:11:21,723 - basicLogger - INFO - Returned event WeatherForecast response (ID: 15) with status 201
+2021-11-24 09:11:21,832 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 1
+2021-11-24 09:11:21,837 - basicLogger - INFO - Returned event WeatherForecast response (ID: 1) with status 201
+2021-11-24 09:11:21,939 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 15
+2021-11-24 09:11:21,944 - basicLogger - INFO - Returned event WeatherForecast response (ID: 15) with status 201
+2021-11-24 09:11:22,013 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 8
+2021-11-24 09:11:22,021 - basicLogger - INFO - Returned event WeatherForecast response (ID: 8) with status 201
+2021-11-24 09:11:22,110 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 4
+2021-11-24 09:11:22,119 - basicLogger - INFO - Returned event WeatherForecast response (ID: 4) with status 201
+2021-11-24 09:11:22,235 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 4
+2021-11-24 09:11:22,239 - basicLogger - INFO - Returned event WeatherForecast response (ID: 4) with status 201
+2021-11-24 09:11:22,320 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 10
+2021-11-24 09:11:22,324 - basicLogger - INFO - Returned event WeatherForecast response (ID: 10) with status 201
+2021-11-24 09:11:22,425 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 14
+2021-11-24 09:11:22,432 - basicLogger - INFO - Returned event WeatherForecast response (ID: 14) with status 201
+2021-11-24 09:11:22,535 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 12
+2021-11-24 09:11:22,540 - basicLogger - INFO - Returned event WeatherForecast response (ID: 12) with status 201
+2021-11-24 09:11:26,878 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 21
+2021-11-24 09:11:26,882 - basicLogger - INFO - Returned event MiscWeather response (ID: 21) with status 201
+2021-11-24 09:11:26,916 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 128
+2021-11-24 09:11:26,920 - basicLogger - INFO - Returned event MiscWeather response (ID: 128) with status 201
+2021-11-24 09:11:27,028 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 72
+2021-11-24 09:11:27,032 - basicLogger - INFO - Returned event MiscWeather response (ID: 72) with status 201
+2021-11-24 09:11:27,152 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 22
+2021-11-24 09:11:27,157 - basicLogger - INFO - Returned event MiscWeather response (ID: 22) with status 201
+2021-11-24 09:11:27,251 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 66
+2021-11-24 09:11:27,255 - basicLogger - INFO - Returned event MiscWeather response (ID: 66) with status 201
+2021-11-24 09:11:27,343 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 69
+2021-11-24 09:11:27,347 - basicLogger - INFO - Returned event MiscWeather response (ID: 69) with status 201
+2021-11-24 09:11:27,443 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 45
+2021-11-24 09:11:27,447 - basicLogger - INFO - Returned event MiscWeather response (ID: 45) with status 201
+2021-11-24 09:11:27,526 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 193
+2021-11-24 09:11:27,530 - basicLogger - INFO - Returned event MiscWeather response (ID: 193) with status 201
+2021-11-24 09:11:27,624 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 143
+2021-11-24 09:11:27,627 - basicLogger - INFO - Returned event MiscWeather response (ID: 143) with status 201
+2021-11-24 09:11:27,746 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 54
+2021-11-24 09:11:27,749 - basicLogger - INFO - Returned event MiscWeather response (ID: 54) with status 201
+2021-11-24 09:11:32,088 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 13
+2021-11-24 09:11:32,092 - basicLogger - INFO - Returned event WeatherForecast response (ID: 13) with status 201
+2021-11-24 09:11:32,127 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 20
+2021-11-24 09:11:32,130 - basicLogger - INFO - Returned event WeatherForecast response (ID: 20) with status 201
+2021-11-24 09:11:32,239 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 3
+2021-11-24 09:11:32,243 - basicLogger - INFO - Returned event WeatherForecast response (ID: 3) with status 201
+2021-11-24 09:11:32,358 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 11
+2021-11-24 09:11:32,361 - basicLogger - INFO - Returned event WeatherForecast response (ID: 11) with status 201
+2021-11-24 09:11:32,467 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 11
+2021-11-24 09:11:32,472 - basicLogger - INFO - Returned event WeatherForecast response (ID: 11) with status 201
+2021-11-24 09:11:32,542 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 9
+2021-11-24 09:11:32,548 - basicLogger - INFO - Returned event WeatherForecast response (ID: 9) with status 201
+2021-11-24 09:11:32,667 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 18
+2021-11-24 09:11:32,671 - basicLogger - INFO - Returned event WeatherForecast response (ID: 18) with status 201
+2021-11-24 09:11:32,733 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 20
+2021-11-24 09:11:32,737 - basicLogger - INFO - Returned event WeatherForecast response (ID: 20) with status 201
+2021-11-24 09:11:32,832 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 10
+2021-11-24 09:11:32,839 - basicLogger - INFO - Returned event WeatherForecast response (ID: 10) with status 201
+2021-11-24 09:11:32,947 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 14
+2021-11-24 09:11:32,951 - basicLogger - INFO - Returned event WeatherForecast response (ID: 14) with status 201
+2021-11-24 09:11:37,292 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 162
+2021-11-24 09:11:37,295 - basicLogger - INFO - Returned event MiscWeather response (ID: 162) with status 201
+2021-11-24 09:11:37,324 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 71
+2021-11-24 09:11:37,329 - basicLogger - INFO - Returned event MiscWeather response (ID: 71) with status 201
+2021-11-24 09:11:37,447 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 47
+2021-11-24 09:11:37,451 - basicLogger - INFO - Returned event MiscWeather response (ID: 47) with status 201
+2021-11-24 09:11:37,562 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 140
+2021-11-24 09:11:37,566 - basicLogger - INFO - Returned event MiscWeather response (ID: 140) with status 201
+2021-11-24 09:11:37,671 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 23
+2021-11-24 09:11:37,677 - basicLogger - INFO - Returned event MiscWeather response (ID: 23) with status 201
+2021-11-24 09:11:37,769 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 117
+2021-11-24 09:11:37,773 - basicLogger - INFO - Returned event MiscWeather response (ID: 117) with status 201
+2021-11-24 09:11:37,876 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 22
+2021-11-24 09:11:37,880 - basicLogger - INFO - Returned event MiscWeather response (ID: 22) with status 201
+2021-11-24 09:11:37,937 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 175
+2021-11-24 09:11:37,941 - basicLogger - INFO - Returned event MiscWeather response (ID: 175) with status 201
+2021-11-24 09:11:38,030 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 1
+2021-11-24 09:11:38,035 - basicLogger - INFO - Returned event MiscWeather response (ID: 1) with status 201
+2021-11-24 09:11:38,159 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 97
+2021-11-24 09:11:38,163 - basicLogger - INFO - Returned event MiscWeather response (ID: 97) with status 201
+2021-11-24 09:11:42,491 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 5
+2021-11-24 09:11:42,495 - basicLogger - INFO - Returned event WeatherForecast response (ID: 5) with status 201
+2021-11-24 09:11:42,534 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 2
+2021-11-24 09:11:42,539 - basicLogger - INFO - Returned event WeatherForecast response (ID: 2) with status 201
+2021-11-24 09:11:42,658 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 16
+2021-11-24 09:11:42,662 - basicLogger - INFO - Returned event WeatherForecast response (ID: 16) with status 201
+2021-11-24 09:11:42,784 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 7
+2021-11-24 09:11:42,790 - basicLogger - INFO - Returned event WeatherForecast response (ID: 7) with status 201
+2021-11-24 09:11:42,889 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 15
+2021-11-24 09:11:42,894 - basicLogger - INFO - Returned event WeatherForecast response (ID: 15) with status 201
+2021-11-24 09:11:42,973 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 5
+2021-11-24 09:11:42,979 - basicLogger - INFO - Returned event WeatherForecast response (ID: 5) with status 201
+2021-11-24 09:11:43,065 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 12
+2021-11-24 09:11:43,071 - basicLogger - INFO - Returned event WeatherForecast response (ID: 12) with status 201
+2021-11-24 09:11:43,143 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 3
+2021-11-24 09:11:43,147 - basicLogger - INFO - Returned event WeatherForecast response (ID: 3) with status 201
+2021-11-24 09:11:43,235 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 12
+2021-11-24 09:11:43,238 - basicLogger - INFO - Returned event WeatherForecast response (ID: 12) with status 201
+2021-11-24 09:11:43,355 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 6
+2021-11-24 09:11:43,359 - basicLogger - INFO - Returned event WeatherForecast response (ID: 6) with status 201
+2021-11-24 09:11:47,698 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 172
+2021-11-24 09:11:47,702 - basicLogger - INFO - Returned event MiscWeather response (ID: 172) with status 201
+2021-11-24 09:11:47,732 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 27
+2021-11-24 09:11:47,737 - basicLogger - INFO - Returned event MiscWeather response (ID: 27) with status 201
+2021-11-24 09:11:47,869 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 200
+2021-11-24 09:11:47,872 - basicLogger - INFO - Returned event MiscWeather response (ID: 200) with status 201
+2021-11-24 09:11:47,982 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 19
+2021-11-24 09:11:47,986 - basicLogger - INFO - Returned event MiscWeather response (ID: 19) with status 201
+2021-11-24 09:11:48,108 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 98
+2021-11-24 09:11:48,113 - basicLogger - INFO - Returned event MiscWeather response (ID: 98) with status 201
+2021-11-24 09:11:48,172 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 97
+2021-11-24 09:11:48,175 - basicLogger - INFO - Returned event MiscWeather response (ID: 97) with status 201
+2021-11-24 09:11:48,285 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 91
+2021-11-24 09:11:48,288 - basicLogger - INFO - Returned event MiscWeather response (ID: 91) with status 201
+2021-11-24 09:11:48,346 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 51
+2021-11-24 09:11:48,350 - basicLogger - INFO - Returned event MiscWeather response (ID: 51) with status 201
+2021-11-24 09:11:48,438 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 186
+2021-11-24 09:11:48,441 - basicLogger - INFO - Returned event MiscWeather response (ID: 186) with status 201
+2021-11-24 09:11:48,574 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 72
+2021-11-24 09:11:48,577 - basicLogger - INFO - Returned event MiscWeather response (ID: 72) with status 201
+2021-11-24 09:11:52,982 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 11
+2021-11-24 09:11:52,985 - basicLogger - INFO - Returned event WeatherForecast response (ID: 11) with status 201
+2021-11-24 09:11:52,997 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 13
+2021-11-24 09:11:53,006 - basicLogger - INFO - Returned event WeatherForecast response (ID: 13) with status 201
+2021-11-24 09:11:53,072 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 1
+2021-11-24 09:11:53,076 - basicLogger - INFO - Returned event WeatherForecast response (ID: 1) with status 201
+2021-11-24 09:11:53,195 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 16
+2021-11-24 09:11:53,200 - basicLogger - INFO - Returned event WeatherForecast response (ID: 16) with status 201
+2021-11-24 09:11:53,311 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 19
+2021-11-24 09:11:53,314 - basicLogger - INFO - Returned event WeatherForecast response (ID: 19) with status 201
+2021-11-24 09:11:53,392 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 2
+2021-11-24 09:11:53,395 - basicLogger - INFO - Returned event WeatherForecast response (ID: 2) with status 201
+2021-11-24 09:11:53,497 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 1
+2021-11-24 09:11:53,500 - basicLogger - INFO - Returned event WeatherForecast response (ID: 1) with status 201
+2021-11-24 09:11:53,561 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 14
+2021-11-24 09:11:53,565 - basicLogger - INFO - Returned event WeatherForecast response (ID: 14) with status 201
+2021-11-24 09:11:53,667 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 14
+2021-11-24 09:11:53,671 - basicLogger - INFO - Returned event WeatherForecast response (ID: 14) with status 201
+2021-11-24 09:11:53,775 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 15
+2021-11-24 09:11:53,779 - basicLogger - INFO - Returned event WeatherForecast response (ID: 15) with status 201
+2021-11-24 09:11:58,181 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 195
+2021-11-24 09:11:58,187 - basicLogger - INFO - Returned event MiscWeather response (ID: 195) with status 201
+2021-11-24 09:11:58,199 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 165
+2021-11-24 09:11:58,203 - basicLogger - INFO - Returned event MiscWeather response (ID: 165) with status 201
+2021-11-24 09:11:58,293 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 46
+2021-11-24 09:11:58,296 - basicLogger - INFO - Returned event MiscWeather response (ID: 46) with status 201
+2021-11-24 09:11:58,415 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 195
+2021-11-24 09:11:58,418 - basicLogger - INFO - Returned event MiscWeather response (ID: 195) with status 201
+2021-11-24 09:11:58,521 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 170
+2021-11-24 09:11:58,525 - basicLogger - INFO - Returned event MiscWeather response (ID: 170) with status 201
+2021-11-24 09:11:58,594 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 197
+2021-11-24 09:11:58,597 - basicLogger - INFO - Returned event MiscWeather response (ID: 197) with status 201
+2021-11-24 09:11:58,724 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 148
+2021-11-24 09:11:58,728 - basicLogger - INFO - Returned event MiscWeather response (ID: 148) with status 201
+2021-11-24 09:11:58,783 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 75
+2021-11-24 09:11:58,789 - basicLogger - INFO - Returned event MiscWeather response (ID: 75) with status 201
+2021-11-24 09:11:58,875 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 108
+2021-11-24 09:11:58,881 - basicLogger - INFO - Returned event MiscWeather response (ID: 108) with status 201
+2021-11-24 09:11:58,983 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 180
+2021-11-24 09:11:58,988 - basicLogger - INFO - Returned event MiscWeather response (ID: 180) with status 201
+2021-11-24 09:12:03,402 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 19
+2021-11-24 09:12:03,407 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 13
+2021-11-24 09:12:03,408 - basicLogger - INFO - Returned event WeatherForecast response (ID: 19) with status 201
+2021-11-24 09:12:03,411 - basicLogger - INFO - Returned event WeatherForecast response (ID: 13) with status 201
+2021-11-24 09:12:03,501 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 0
+2021-11-24 09:12:03,506 - basicLogger - INFO - Returned event WeatherForecast response (ID: 0) with status 201
+2021-11-24 09:12:03,624 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 3
+2021-11-24 09:12:03,628 - basicLogger - INFO - Returned event WeatherForecast response (ID: 3) with status 201
+2021-11-24 09:12:03,739 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 13
+2021-11-24 09:12:03,743 - basicLogger - INFO - Returned event WeatherForecast response (ID: 13) with status 201
+2021-11-24 09:12:03,791 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 7
+2021-11-24 09:12:03,798 - basicLogger - INFO - Returned event WeatherForecast response (ID: 7) with status 201
+2021-11-24 09:12:03,922 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 5
+2021-11-24 09:12:03,926 - basicLogger - INFO - Returned event WeatherForecast response (ID: 5) with status 201
+2021-11-24 09:12:03,992 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 11
+2021-11-24 09:12:03,996 - basicLogger - INFO - Returned event WeatherForecast response (ID: 11) with status 201
+2021-11-24 09:12:04,078 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 18
+2021-11-24 09:12:04,081 - basicLogger - INFO - Returned event WeatherForecast response (ID: 18) with status 201
+2021-11-24 09:12:04,182 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 13
+2021-11-24 09:12:04,187 - basicLogger - INFO - Returned event WeatherForecast response (ID: 13) with status 201
+2021-11-24 09:12:08,605 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 109
+2021-11-24 09:12:08,609 - basicLogger - INFO - Returned event MiscWeather response (ID: 109) with status 201
+2021-11-24 09:12:08,621 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 91
+2021-11-24 09:12:08,625 - basicLogger - INFO - Returned event MiscWeather response (ID: 91) with status 201
+2021-11-24 09:12:08,702 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 96
+2021-11-24 09:12:08,706 - basicLogger - INFO - Returned event MiscWeather response (ID: 96) with status 201
+2021-11-24 09:12:08,819 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 69
+2021-11-24 09:12:08,824 - basicLogger - INFO - Returned event MiscWeather response (ID: 69) with status 201
+2021-11-24 09:12:08,948 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 190
+2021-11-24 09:12:08,954 - basicLogger - INFO - Returned event MiscWeather response (ID: 190) with status 201
+2021-11-24 09:12:08,993 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 144
+2021-11-24 09:12:09,000 - basicLogger - INFO - Returned event MiscWeather response (ID: 144) with status 201
+2021-11-24 09:12:09,122 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 46
+2021-11-24 09:12:09,126 - basicLogger - INFO - Returned event MiscWeather response (ID: 46) with status 201
+2021-11-24 09:12:09,191 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 156
+2021-11-24 09:12:09,198 - basicLogger - INFO - Returned event MiscWeather response (ID: 156) with status 201
+2021-11-24 09:12:09,273 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 27
+2021-11-24 09:12:09,278 - basicLogger - INFO - Returned event MiscWeather response (ID: 27) with status 201
+2021-11-24 09:12:09,391 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 63
+2021-11-24 09:12:09,395 - basicLogger - INFO - Returned event MiscWeather response (ID: 63) with status 201
+2021-11-25 18:19:39,278 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-25 18:19:39,285 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-25 18:19:39,286 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-11-25 18:19:39,315 - basicLogger - ERROR - Kafka connection failed.
+2021-11-25 18:19:44,320 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-11-25 18:19:44,772 - basicLogger - INFO - Successfully connected to Kafka.
+2021-11-25 18:19:44,846 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-25 18:19:44,846 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-25 18:19:44,846 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-11-25 18:19:44,866 - basicLogger - INFO - Successfully connected to Kafka.
+2021-11-25 18:39:48,030 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-25 18:39:48,030 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-25 18:39:48,030 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-11-25 18:39:48,102 - basicLogger - ERROR - Kafka connection failed.
+2021-11-25 18:39:53,108 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-11-25 18:39:55,211 - basicLogger - INFO - Successfully connected to Kafka.
+2021-11-25 18:39:55,337 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-11-25 18:39:55,337 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-11-25 18:39:55,337 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-11-25 18:39:55,359 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 09:45:16,715 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 09:45:16,723 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 09:45:16,723 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 09:45:16,776 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 09:45:21,780 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-12-02 09:45:21,791 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 09:45:26,792 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 2
+2021-12-02 09:45:26,818 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 09:45:26,899 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 09:45:26,899 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 09:45:26,899 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 09:45:26,923 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 09:52:18,505 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 09:52:18,505 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 09:52:18,505 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 09:52:18,544 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 09:52:23,547 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-12-02 09:52:23,561 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 09:52:28,567 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 2
+2021-12-02 09:52:28,623 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 09:52:28,826 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 09:52:28,826 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 09:52:28,826 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 09:52:28,867 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 09:55:04,570 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 09:55:04,570 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 09:55:04,570 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 09:55:04,629 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 09:55:09,635 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-12-02 09:55:09,680 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 09:55:14,683 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 2
+2021-12-02 09:55:15,101 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 09:55:15,230 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 09:55:15,230 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 09:55:15,230 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 09:55:15,255 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 10:48:26,712 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 10:48:26,712 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 10:48:26,712 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 10:48:26,769 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 10:48:31,775 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-12-02 10:48:34,327 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 10:48:34,516 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 10:48:34,516 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 10:48:34,516 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 10:48:34,546 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 10:55:03,072 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 10:55:03,072 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 10:55:03,072 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 10:55:03,116 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 10:55:08,126 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-12-02 10:55:08,160 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 10:55:13,164 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 2
+2021-12-02 10:55:13,213 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 10:55:13,319 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 10:55:13,327 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 10:55:13,327 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 10:55:13,345 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 11:08:30,248 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 11:08:30,248 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 11:08:30,248 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 11:08:30,328 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 11:08:35,331 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-12-02 11:08:35,376 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 11:08:40,379 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 2
+2021-12-02 11:08:42,127 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 11:08:42,307 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 11:08:42,308 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 11:08:42,308 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 11:08:42,335 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 11:19:53,780 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 11:19:53,782 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 11:19:53,782 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 11:19:53,820 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 11:19:56,178 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 11:19:56,178 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 11:19:56,178 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 11:19:56,248 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 11:19:58,823 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-12-02 11:19:58,859 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 11:19:59,693 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 11:19:59,694 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 11:19:59,694 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 11:19:59,731 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 11:20:01,259 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-12-02 11:20:01,285 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 11:20:03,863 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 2
+2021-12-02 11:20:03,922 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 11:20:04,735 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-12-02 11:20:06,287 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 2
+2021-12-02 11:20:08,931 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 3
+2021-12-02 11:20:09,244 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 11:20:09,307 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 11:20:09,435 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 11:20:09,674 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 11:20:09,674 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 11:20:09,674 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 11:20:09,706 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 11:20:09,706 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 11:20:09,706 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 11:20:09,750 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 11:20:09,757 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 11:20:09,757 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 11:20:09,757 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 11:20:09,776 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 11:20:09,805 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 11:35:09,727 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 11:35:09,727 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 11:35:09,727 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 11:35:09,856 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 11:35:14,859 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-12-02 11:35:14,897 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 11:35:19,900 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 2
+2021-12-02 11:35:20,309 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 11:35:20,503 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 11:35:20,503 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 11:35:20,503 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 11:35:20,549 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 11:39:23,020 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 11:39:23,020 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 11:39:23,021 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 11:39:23,064 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 11:39:24,170 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 11:39:24,170 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 11:39:24,170 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 11:39:24,241 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 11:39:26,284 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 11:39:26,284 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 11:39:26,284 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 11:39:26,332 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 11:39:28,071 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-12-02 11:39:28,092 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 11:39:29,251 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-12-02 11:39:29,311 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 11:39:31,343 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-12-02 11:39:31,368 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 11:39:33,095 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 2
+2021-12-02 11:39:34,315 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 2
+2021-12-02 11:39:36,375 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 2
+2021-12-02 11:39:36,795 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 11:39:36,922 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 11:39:36,943 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 11:39:37,148 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 11:39:37,148 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 11:39:37,148 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 11:39:37,244 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 11:39:37,277 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 11:39:37,277 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 11:39:37,277 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 11:39:37,316 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 11:39:37,316 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 11:39:37,317 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 11:39:37,348 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 11:39:37,391 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 12:18:44,381 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 12:18:44,393 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 12:18:44,393 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 12:18:44,406 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 12:18:44,406 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 12:18:44,406 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 12:18:44,411 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 12:18:44,411 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 12:18:44,411 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 12:18:44,474 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 12:18:44,474 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 12:18:44,487 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 12:18:49,477 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-12-02 12:18:49,478 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-12-02 12:18:49,491 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 1
+2021-12-02 12:18:49,505 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 12:18:49,505 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 12:18:49,511 - basicLogger - ERROR - Kafka connection failed.
+2021-12-02 12:18:54,509 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 2
+2021-12-02 12:18:54,509 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 2
+2021-12-02 12:18:54,513 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 2
+2021-12-02 12:18:54,572 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 12:18:54,572 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 12:18:54,572 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 12:18:54,721 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 12:18:54,727 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 12:18:54,727 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 12:18:54,752 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 12:18:54,752 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 12:18:54,753 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 12:18:54,753 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 12:18:54,774 - basicLogger - INFO - App Conf File: /config/app_conf.yaml
+2021-12-02 12:18:54,777 - basicLogger - INFO - Log Conf File: /config/log_conf.yaml
+2021-12-02 12:18:54,777 - basicLogger - INFO - Attempting to connect to Kafka... Retry count: 0
+2021-12-02 12:18:54,788 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 12:18:54,817 - basicLogger - INFO - Successfully connected to Kafka.
+2021-12-02 12:18:56,375 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 567
+2021-12-02 12:18:56,429 - basicLogger - INFO - Returned event WeatherForecast response (ID: 567) with status 201
+2021-12-02 12:19:40,753 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 873
+2021-12-02 12:19:40,757 - basicLogger - INFO - Returned event MiscWeather response (ID: 873) with status 201
+2021-12-02 12:21:12,393 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 20
+2021-12-02 12:21:12,398 - basicLogger - INFO - Returned event WeatherForecast response (ID: 20) with status 201
+2021-12-02 12:21:12,406 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 5
+2021-12-02 12:21:12,406 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 5
+2021-12-02 12:21:12,408 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 19
+2021-12-02 12:21:12,414 - basicLogger - INFO - Returned event WeatherForecast response (ID: 5) with status 201
+2021-12-02 12:21:12,414 - basicLogger - INFO - Returned event WeatherForecast response (ID: 5) with status 201
+2021-12-02 12:21:12,416 - basicLogger - INFO - Returned event WeatherForecast response (ID: 19) with status 201
+2021-12-02 12:21:12,481 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 10
+2021-12-02 12:21:12,485 - basicLogger - INFO - Returned event WeatherForecast response (ID: 10) with status 201
+2021-12-02 12:21:12,579 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 17
+2021-12-02 12:21:12,582 - basicLogger - INFO - Returned event WeatherForecast response (ID: 17) with status 201
+2021-12-02 12:21:12,677 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 14
+2021-12-02 12:21:12,681 - basicLogger - INFO - Returned event WeatherForecast response (ID: 14) with status 201
+2021-12-02 12:21:12,780 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 4
+2021-12-02 12:21:12,783 - basicLogger - INFO - Returned event WeatherForecast response (ID: 4) with status 201
+2021-12-02 12:21:12,887 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 15
+2021-12-02 12:21:12,890 - basicLogger - INFO - Returned event WeatherForecast response (ID: 15) with status 201
+2021-12-02 12:21:12,975 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 3
+2021-12-02 12:21:12,980 - basicLogger - INFO - Returned event WeatherForecast response (ID: 3) with status 201
+2021-12-02 12:21:17,517 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 197
+2021-12-02 12:21:17,520 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 152
+2021-12-02 12:21:17,520 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 56
+2021-12-02 12:21:17,523 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 57
+2021-12-02 12:21:17,527 - basicLogger - INFO - Returned event MiscWeather response (ID: 197) with status 201
+2021-12-02 12:21:17,528 - basicLogger - INFO - Returned event MiscWeather response (ID: 57) with status 201
+2021-12-02 12:21:17,530 - basicLogger - INFO - Returned event MiscWeather response (ID: 152) with status 201
+2021-12-02 12:21:17,530 - basicLogger - INFO - Returned event MiscWeather response (ID: 56) with status 201
+2021-12-02 12:21:17,580 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 12
+2021-12-02 12:21:17,585 - basicLogger - INFO - Returned event MiscWeather response (ID: 12) with status 201
+2021-12-02 12:21:17,677 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 56
+2021-12-02 12:21:17,681 - basicLogger - INFO - Returned event MiscWeather response (ID: 56) with status 201
+2021-12-02 12:21:17,776 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 200
+2021-12-02 12:21:17,780 - basicLogger - INFO - Returned event MiscWeather response (ID: 200) with status 201
+2021-12-02 12:21:17,882 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 135
+2021-12-02 12:21:17,886 - basicLogger - INFO - Returned event MiscWeather response (ID: 135) with status 201
+2021-12-02 12:21:17,992 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 166
+2021-12-02 12:21:17,996 - basicLogger - INFO - Returned event MiscWeather response (ID: 166) with status 201
+2021-12-02 12:21:18,084 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 26
+2021-12-02 12:21:18,087 - basicLogger - INFO - Returned event MiscWeather response (ID: 26) with status 201
+2021-12-02 12:22:37,990 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 12
+2021-12-02 12:22:37,997 - basicLogger - INFO - Returned event WeatherForecast response (ID: 12) with status 201
+2021-12-02 12:22:38,051 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 8
+2021-12-02 12:22:38,056 - basicLogger - INFO - Returned event WeatherForecast response (ID: 8) with status 201
+2021-12-02 12:22:38,170 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 16
+2021-12-02 12:22:38,174 - basicLogger - INFO - Returned event WeatherForecast response (ID: 16) with status 201
+2021-12-02 12:22:38,276 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 0
+2021-12-02 12:22:38,281 - basicLogger - INFO - Returned event WeatherForecast response (ID: 0) with status 201
+2021-12-02 12:22:38,390 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 2
+2021-12-02 12:22:38,393 - basicLogger - INFO - Returned event WeatherForecast response (ID: 2) with status 201
+2021-12-02 12:22:38,495 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 11
+2021-12-02 12:22:38,501 - basicLogger - INFO - Returned event WeatherForecast response (ID: 11) with status 201
+2021-12-02 12:22:38,615 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 1
+2021-12-02 12:22:38,620 - basicLogger - INFO - Returned event WeatherForecast response (ID: 1) with status 201
+2021-12-02 12:22:38,714 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 16
+2021-12-02 12:22:38,719 - basicLogger - INFO - Returned event WeatherForecast response (ID: 16) with status 201
+2021-12-02 12:22:38,818 - basicLogger - INFO - Received event WeatherForecast request with a unique ID of 11
+2021-12-02 12:22:38,825 - basicLogger - INFO - Returned event WeatherForecast response (ID: 11) with status 201
+2021-12-02 12:22:43,092 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 197
+2021-12-02 12:22:43,095 - basicLogger - INFO - Returned event MiscWeather response (ID: 197) with status 201
+2021-12-02 12:22:43,157 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 118
+2021-12-02 12:22:43,161 - basicLogger - INFO - Returned event MiscWeather response (ID: 118) with status 201
+2021-12-02 12:22:43,267 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 87
+2021-12-02 12:22:43,270 - basicLogger - INFO - Returned event MiscWeather response (ID: 87) with status 201
+2021-12-02 12:22:43,379 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 108
+2021-12-02 12:22:43,385 - basicLogger - INFO - Returned event MiscWeather response (ID: 108) with status 201
+2021-12-02 12:22:43,491 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 41
+2021-12-02 12:22:43,495 - basicLogger - INFO - Returned event MiscWeather response (ID: 41) with status 201
+2021-12-02 12:22:43,599 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 192
+2021-12-02 12:22:43,603 - basicLogger - INFO - Returned event MiscWeather response (ID: 192) with status 201
+2021-12-02 12:22:43,721 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 66
+2021-12-02 12:22:43,724 - basicLogger - INFO - Returned event MiscWeather response (ID: 66) with status 201
+2021-12-02 12:22:43,818 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 124
+2021-12-02 12:22:43,822 - basicLogger - INFO - Returned event MiscWeather response (ID: 124) with status 201
+2021-12-02 12:22:43,921 - basicLogger - INFO - Received event MiscWeather request with a unique ID of 72
+2021-12-02 12:22:43,925 - basicLogger - INFO - Returned event MiscWeather response (ID: 72) with status 201
