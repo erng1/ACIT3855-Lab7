@@ -4,6 +4,12 @@ datastore:
 scheduler:
   period_sec: 5
 eventstore1:
+<<<<<<< Updated upstream
   url: http://localhost:8090/location/weatherForecast
 eventstore2:
   url: http://localhost:8090/location/miscWeather
+=======
+  url: http://kafka-acit3855-lab6a.eastus2.cloudapp.azure.com/storage/location/weatherForecast
+eventstore2:
+  url: http://kafka-acit3855-lab6a.eastus2.cloudapp.azure.com/storage/location/miscWeather
+>>>>>>> Stashed changes
