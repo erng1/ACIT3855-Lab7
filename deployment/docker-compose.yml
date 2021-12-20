@@ -51,13 +51,9 @@ services:
   receiver:
     image: receiver:latest
     ports:
-<<<<<<< Updated upstream
-      - "8080:8080"
-=======
       - "8080"
     networks:
       - "api.network"
->>>>>>> Stashed changes
     environment:
       - TARGET_ENV=test
     volumes:
@@ -68,13 +64,9 @@ services:
   storage:
     image: storage:latest
     ports:
-<<<<<<< Updated upstream
-      - "8090:8090"
-=======
       - "8090"    
     networks:
       - "api.network"
->>>>>>> Stashed changes
     environment:
       - TARGET_ENV=test
     volumes:
@@ -85,14 +77,10 @@ services:
       - "db"
   processing:
     image: processing:latest
-<<<<<<< Updated upstream
-    network_mode: "host"
-=======
     ports:
       - "8100"
     networks:
       - "api.network"
->>>>>>> Stashed changes
     environment:
       - TARGET_ENV=test
     volumes:
@@ -104,13 +92,9 @@ services:
   audit_log:
     image: audit_log:latest
     ports:
-<<<<<<< Updated upstream
-      - "8110:8110"
-=======
       - "8110"
     networks:
       - "api.network"
->>>>>>> Stashed changes
     environment:
       - TARGET_ENV=test
     volumes:
@@ -121,13 +105,10 @@ services:
   dashboard:
     image: dashboard:latest
     ports:
-<<<<<<< Updated upstream
-      - "3000:3000"
+      - "3000"
     depends_on:
       - "processing"
       - "audit_log"
-=======
-      - "3000"
     networks:
       - "api.network"
     depends_on:
@@ -150,14 +131,9 @@ services:
       - "80:80"
     networks:
       - "api.network"
->>>>>>> Stashed changes
 # Names our volume
 volumes:
   my-db:
   processing-db:
-<<<<<<< Updated upstream
-=======
-
 networks:
   api.network:
->>>>>>> Stashed changes
